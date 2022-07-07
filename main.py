@@ -28,7 +28,7 @@ for year in range(2017, 2022):
 
         subjects = defaultdict(dict)
         for row in data:
-            p = (row["subject"], row["subject_2"] or None)
+            p = (row["subject"].rstrip("#"), row["subject_2"] or None)
             subjects[p][row["gender"].lower()] = {
                 "no_entered": int(row["no. entered"]),
                 "no_sat": int(row["no. sat"]),

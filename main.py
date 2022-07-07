@@ -1,5 +1,6 @@
 import csv
 import json
+import os
 import re
 from collections import defaultdict
 
@@ -8,9 +9,11 @@ def remove_duplicate_space(s):
     return re.sub(r"\s+", " ", s.strip())
 
 
-for year in range(2017, 2022):
+for year in os.listdir("raw"):
+    os.makedirs(f"data/{year}", exist_ok=True)
+
     for filename in "ab":
-        with open(f"data/{year}/{filename}.csv") as f:
+        with open(f"raw/{year}/{filename}.csv") as f:
             if f.read(1) != "\ufeff":  # ZERO WIDTH NO-BREAK SPACE
                 f.seek(0, 0)
             reader = csv.DictReader(f)

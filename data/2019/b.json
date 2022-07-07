@@ -1,7 +1,7 @@
 [
     {
         "subject": "Biology",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 5970,
             "no_sat": 5659,
@@ -44,7 +44,7 @@
     },
     {
         "subject": "Business, Accounting and Financial Studies",
-        "subject_2": "Accounting",
+        "subcategory": "Accounting",
         "male": {
             "no_entered": 3419,
             "no_sat": 3148,
@@ -87,7 +87,7 @@
     },
     {
         "subject": "Business, Accounting and Financial Studies",
-        "subject_2": "Business Management",
+        "subcategory": "Business Management",
         "male": {
             "no_entered": 1268,
             "no_sat": 1159,
@@ -130,7 +130,7 @@
     },
     {
         "subject": "Chemistry",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 7514,
             "no_sat": 7083,
@@ -173,7 +173,7 @@
     },
     {
         "subject": "Chinese History",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 2890,
             "no_sat": 2671,
@@ -216,7 +216,7 @@
     },
     {
         "subject": "Chinese Language",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 25896,
             "no_sat": 25342,
@@ -259,7 +259,7 @@
     },
     {
         "subject": "Chinese Literature",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 359,
             "no_sat": 331,
@@ -302,7 +302,7 @@
     },
     {
         "subject": "Design and Applied Technology",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 430,
             "no_sat": 394,
@@ -345,7 +345,7 @@
     },
     {
         "subject": "Economics",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 6369,
             "no_sat": 5967,
@@ -388,7 +388,7 @@
     },
     {
         "subject": "English Language",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 27188,
             "no_sat": 26017,
@@ -431,7 +431,7 @@
     },
     {
         "subject": "Ethics and Religious Studies",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 363,
             "no_sat": 320,
@@ -474,7 +474,7 @@
     },
     {
         "subject": "Geography",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 4017,
             "no_sat": 3820,
@@ -517,7 +517,7 @@
     },
     {
         "subject": "Health Management and Social Care",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 329,
             "no_sat": 289,
@@ -560,7 +560,7 @@
     },
     {
         "subject": "History",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 2475,
             "no_sat": 2344,
@@ -603,7 +603,7 @@
     },
     {
         "subject": "Information and Communication Technology",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 4582,
             "no_sat": 4309,
@@ -646,7 +646,7 @@
     },
     {
         "subject": "Liberal Studies",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 25774,
             "no_sat": 24980,
@@ -689,7 +689,7 @@
     },
     {
         "subject": "Literature in English",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 38,
             "no_sat": 30,
@@ -732,7 +732,7 @@
     },
     {
         "subject": "Mathematics",
-        "subject_2": "Compulsory Part",
+        "subcategory": "Compulsory Part",
         "male": {
             "no_entered": 27002,
             "no_sat": 25694,
@@ -775,7 +775,7 @@
     },
     {
         "subject": "Mathematics",
-        "subject_2": "Extended Part (Calculus and Statistics)",
+        "subcategory": "Extended Part (Calculus and Statistics)",
         "male": {
             "no_entered": 1786,
             "no_sat": 1625,
@@ -818,7 +818,7 @@
     },
     {
         "subject": "Mathematics",
-        "subject_2": "Extended Part (Algebra and Calculus)",
+        "subcategory": "Extended Part (Algebra and Calculus)",
         "male": {
             "no_entered": 3836,
             "no_sat": 3539,
@@ -861,7 +861,7 @@
     },
     {
         "subject": "Music",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 80,
             "no_sat": 80,
@@ -904,7 +904,7 @@
     },
     {
         "subject": "Physical Education",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 800,
             "no_sat": 759,
@@ -947,7 +947,7 @@
     },
     {
         "subject": "Physics",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 8187,
             "no_sat": 7721,
@@ -990,7 +990,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science (Biology, Chemistry)",
+        "subcategory": "Combined Science (Biology, Chemistry)",
         "male": {
             "no_entered": 215,
             "no_sat": 197,
@@ -1033,7 +1033,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science (Biology, Physics)",
+        "subcategory": "Combined Science (Biology, Physics)",
         "male": {
             "no_entered": 14,
             "no_sat": 13,
@@ -1076,7 +1076,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science (Chemistry, Physics)",
+        "subcategory": "Combined Science (Chemistry, Physics)",
         "male": {
             "no_entered": 162,
             "no_sat": 155,
@@ -1119,7 +1119,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science (Biology)",
+        "subcategory": "Combined Science (Biology)",
         "male": {
             "no_entered": 229,
             "no_sat": 210,
@@ -1162,7 +1162,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science (Chemistry)",
+        "subcategory": "Combined Science (Chemistry)",
         "male": {
             "no_entered": 377,
             "no_sat": 351,
@@ -1205,7 +1205,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science (Physics)",
+        "subcategory": "Combined Science (Physics)",
         "male": {
             "no_entered": 176,
             "no_sat": 168,
@@ -1248,7 +1248,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Combined Science",
+        "subcategory": "Combined Science",
         "male": {
             "no_entered": 391,
             "no_sat": 365,
@@ -1291,7 +1291,7 @@
     },
     {
         "subject": "Science",
-        "subject_2": "Integrated Science",
+        "subcategory": "Integrated Science",
         "male": {
             "no_entered": 54,
             "no_sat": 46,
@@ -1334,7 +1334,7 @@
     },
     {
         "subject": "Technology and Living",
-        "subject_2": "Food Science and Technology",
+        "subcategory": "Food Science and Technology",
         "male": {
             "no_entered": 41,
             "no_sat": 38,
@@ -1377,7 +1377,7 @@
     },
     {
         "subject": "Technology and Living",
-        "subject_2": "Fashion, Clothing and Textiles",
+        "subcategory": "Fashion, Clothing and Textiles",
         "male": {
             "no_entered": 11,
             "no_sat": 10,
@@ -1420,7 +1420,7 @@
     },
     {
         "subject": "Tourism and Hospitality Studies",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 1450,
             "no_sat": 1292,
@@ -1463,7 +1463,7 @@
     },
     {
         "subject": "Visual Arts",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 974,
             "no_sat": 917,
@@ -1506,7 +1506,7 @@
     },
     {
         "subject": "All Category A subjects",
-        "subject_2": null,
+        "subcategory": null,
         "male": {
             "no_entered": 157871,
             "no_sat": 150848,

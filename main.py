@@ -47,7 +47,7 @@ for year in range(2017, 2022):
         data = [
             {
                 "subject": k[0],
-                "subject_2": k[1],
+                "subcategory": k[1],
                 **v
             } for k, v in subjects.items()
         ]

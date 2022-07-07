@@ -22,7 +22,7 @@ Sample subject data:
 ```json
 {
     "subject": "Mathematics",
-    "subject_2": "Compulsory Part",
+    "subcategory": "Compulsory Part",
     "male": {
         "no_entered": 21303,
         "no_sat": 20835,

@@ -990,7 +990,7 @@
     },
     {
         "subject": "Science",
-        "subcategory": "Combined Science (Biology,  Chemistry)",
+        "subcategory": "Combined Science (Biology, Chemistry)",
         "male": {
             "no_entered": 296,
             "no_sat": 264,
@@ -1377,7 +1377,7 @@
     },
     {
         "subject": "Technology and Living",
-        "subcategory": " Fashion, Clothing and Textiles",
+        "subcategory": "Fashion, Clothing and Textiles",
         "male": {
             "no_entered": 19,
             "no_sat": 15,

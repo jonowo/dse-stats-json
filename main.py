@@ -1,6 +1,12 @@
 import csv
 import json
+import re
 from collections import defaultdict
+
+
+def remove_duplicate_space(s):
+    return re.sub(r"\s+", " ", s.strip())
+
 
 for year in range(2017, 2022):
     for filename in "ab":
@@ -13,8 +19,7 @@ for year in range(2017, 2022):
         # Sanitize
         for row in raw_data:
             for key in list(row):
-                new_key = key.replace("\n", " ").replace(
-                    " -  ", " - ").strip().lower()
+                new_key = remove_duplicate_space(key).lower()
                 if new_key.endswith("5*"):
                     new_key += "+"
                 row[new_key] = row.pop(key)
@@ -28,7 +33,10 @@ for year in range(2017, 2022):
 
         subjects = defaultdict(dict)
         for row in data:
-            p = (row["subject"].rstrip("#"), row["subject_2"] or None)
+            p = (
+                remove_duplicate_space(row["subject"]).rstrip("#"),
+                remove_duplicate_space(row["subject_2"]) or None
+            )
             subjects[p][row["gender"].lower()] = {
                 "no_entered": int(row["no. entered"]),
                 "no_sat": int(row["no. sat"]),

@@ -26,7 +26,7 @@ Sample subject data:
     "male": {
         "no_entered": 21303,
         "no_sat": 20835,
-        "chin_ver": 41.7,
+        "chinese_version": 41.7,
         "5**": 438,
         "5*+": 1609,
         "5+": 3601,
@@ -39,7 +39,7 @@ Sample subject data:
     "female": {
         "no_entered": 21000,
         "no_sat": 20662,
-        "chin_ver": 32.9,
+        "chinese_version": 32.9,
         "5**": 159,
         "5*+": 873,
         "5+": 2554,
@@ -52,7 +52,7 @@ Sample subject data:
     "total": {
         "no_entered": 42303,
         "no_sat": 41497,
-        "chin_ver": 37.3,
+        "chinese_version": 37.3,
         "5**": 597,
         "5*+": 2482,
         "5+": 6155,

@@ -5,7 +5,7 @@
         "male": {
             "no_entered": 6255,
             "no_sat": 5958,
-            "chin_ver": 43.5,
+            "chinese_version": 43.5,
             "5**": 155,
             "5*+": 528,
             "5+": 1197,
@@ -18,7 +18,7 @@
         "female": {
             "no_entered": 8609,
             "no_sat": 8382,
-            "chin_ver": 36.9,
+            "chinese_version": 36.9,
             "5**": 121,
             "5*+": 554,
             "5+": 1542,
@@ -31,7 +31,7 @@
         "total": {
             "no_entered": 14864,
             "no_sat": 14340,
-            "chin_ver": 39.6,
+            "chinese_version": 39.6,
             "5**": 276,
             "5*+": 1082,
             "5+": 2739,
@@ -48,7 +48,7 @@
         "male": {
             "no_entered": 3792,
             "no_sat": 3617,
-            "chin_ver": 42.1,
+            "chinese_version": 42.1,
             "5**": 58,
             "5*+": 209,
             "5+": 517,
@@ -61,7 +61,7 @@
         "female": {
             "no_entered": 4525,
             "no_sat": 4391,
-            "chin_ver": 30.3,
+            "chinese_version": 30.3,
             "5**": 51,
             "5*+": 239,
             "5+": 596,
@@ -74,7 +74,7 @@
         "total": {
             "no_entered": 8317,
             "no_sat": 8008,
-            "chin_ver": 35.6,
+            "chinese_version": 35.6,
             "5**": 109,
             "5*+": 448,
             "5+": 1113,
@@ -91,7 +91,7 @@
         "male": {
             "no_entered": 1542,
             "no_sat": 1426,
-            "chin_ver": 74.7,
+            "chinese_version": 74.7,
             "5**": 7,
             "5*+": 40,
             "5+": 90,
@@ -104,7 +104,7 @@
         "female": {
             "no_entered": 1639,
             "no_sat": 1580,
-            "chin_ver": 68.2,
+            "chinese_version": 68.2,
             "5**": 14,
             "5*+": 53,
             "5+": 128,
@@ -117,7 +117,7 @@
         "total": {
             "no_entered": 3181,
             "no_sat": 3006,
-            "chin_ver": 71.3,
+            "chinese_version": 71.3,
             "5**": 21,
             "5*+": 93,
             "5+": 218,
@@ -134,7 +134,7 @@
         "male": {
             "no_entered": 7856,
             "no_sat": 7375,
-            "chin_ver": 26.6,
+            "chinese_version": 26.6,
             "5**": 250,
             "5*+": 899,
             "5+": 2098,
@@ -147,7 +147,7 @@
         "female": {
             "no_entered": 6329,
             "no_sat": 6126,
-            "chin_ver": 19.0,
+            "chinese_version": 19.0,
             "5**": 113,
             "5*+": 551,
             "5+": 1477,
@@ -160,7 +160,7 @@
         "total": {
             "no_entered": 14185,
             "no_sat": 13501,
-            "chin_ver": 23.1,
+            "chinese_version": 23.1,
             "5**": 363,
             "5*+": 1450,
             "5+": 3575,
@@ -177,7 +177,7 @@
         "male": {
             "no_entered": 3053,
             "no_sat": 2876,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 27,
             "5*+": 117,
             "5+": 295,
@@ -190,7 +190,7 @@
         "female": {
             "no_entered": 3320,
             "no_sat": 3214,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 49,
             "5*+": 192,
             "5+": 472,
@@ -203,7 +203,7 @@
         "total": {
             "no_entered": 6373,
             "no_sat": 6090,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 76,
             "5*+": 309,
             "5+": 767,
@@ -220,7 +220,7 @@
         "male": {
             "no_entered": 28987,
             "no_sat": 28455,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 144,
             "5*+": 583,
             "5+": 1523,
@@ -233,7 +233,7 @@
         "female": {
             "no_entered": 27271,
             "no_sat": 26985,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 348,
             "5*+": 1309,
             "5+": 3348,
@@ -246,7 +246,7 @@
         "total": {
             "no_entered": 56258,
             "no_sat": 55440,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 492,
             "5*+": 1892,
             "5+": 4871,
@@ -263,7 +263,7 @@
         "male": {
             "no_entered": 411,
             "no_sat": 380,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 1,
             "5*+": 6,
             "5+": 23,
@@ -276,7 +276,7 @@
         "female": {
             "no_entered": 1389,
             "no_sat": 1334,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 19,
             "5*+": 76,
             "5+": 187,
@@ -289,7 +289,7 @@
         "total": {
             "no_entered": 1800,
             "no_sat": 1714,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 20,
             "5*+": 82,
             "5+": 210,
@@ -306,7 +306,7 @@
         "male": {
             "no_entered": 535,
             "no_sat": 504,
-            "chin_ver": 95.8,
+            "chinese_version": 95.8,
             "5**": 1,
             "5*+": 3,
             "5+": 10,
@@ -319,7 +319,7 @@
         "female": {
             "no_entered": 230,
             "no_sat": 212,
-            "chin_ver": 95.3,
+            "chinese_version": 95.3,
             "5**": 1,
             "5*+": 3,
             "5+": 5,
@@ -332,7 +332,7 @@
         "total": {
             "no_entered": 765,
             "no_sat": 716,
-            "chin_ver": 95.7,
+            "chinese_version": 95.7,
             "5**": 2,
             "5*+": 6,
             "5+": 15,
@@ -349,7 +349,7 @@
         "male": {
             "no_entered": 7133,
             "no_sat": 6767,
-            "chin_ver": 47.8,
+            "chinese_version": 47.8,
             "5**": 146,
             "5*+": 554,
             "5+": 1245,
@@ -362,7 +362,7 @@
         "female": {
             "no_entered": 7770,
             "no_sat": 7556,
-            "chin_ver": 37.2,
+            "chinese_version": 37.2,
             "5**": 120,
             "5*+": 496,
             "5+": 1250,
@@ -375,7 +375,7 @@
         "total": {
             "no_entered": 14903,
             "no_sat": 14323,
-            "chin_ver": 42.2,
+            "chinese_version": 42.2,
             "5**": 266,
             "5*+": 1050,
             "5+": 2495,
@@ -392,7 +392,7 @@
         "male": {
             "no_entered": 29714,
             "no_sat": 28586,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 226,
             "5*+": 801,
             "5+": 2129,
@@ -405,7 +405,7 @@
         "female": {
             "no_entered": 28267,
             "no_sat": 27705,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 336,
             "5*+": 1361,
             "5+": 3251,
@@ -418,7 +418,7 @@
         "total": {
             "no_entered": 57981,
             "no_sat": 56291,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 562,
             "5*+": 2162,
             "5+": 5380,
@@ -435,7 +435,7 @@
         "male": {
             "no_entered": 374,
             "no_sat": 346,
-            "chin_ver": 96.0,
+            "chinese_version": 96.0,
             "5**": 3,
             "5*+": 7,
             "5+": 19,
@@ -448,7 +448,7 @@
         "female": {
             "no_entered": 428,
             "no_sat": 409,
-            "chin_ver": 91.7,
+            "chinese_version": 91.7,
             "5**": 2,
             "5*+": 21,
             "5+": 50,
@@ -461,7 +461,7 @@
         "total": {
             "no_entered": 802,
             "no_sat": 755,
-            "chin_ver": 93.6,
+            "chinese_version": 93.6,
             "5**": 5,
             "5*+": 28,
             "5+": 69,
@@ -478,7 +478,7 @@
         "male": {
             "no_entered": 4420,
             "no_sat": 4227,
-            "chin_ver": 64.2,
+            "chinese_version": 64.2,
             "5**": 44,
             "5*+": 181,
             "5+": 427,
@@ -491,7 +491,7 @@
         "female": {
             "no_entered": 5765,
             "no_sat": 5624,
-            "chin_ver": 51.0,
+            "chinese_version": 51.0,
             "5**": 72,
             "5*+": 313,
             "5+": 746,
@@ -504,7 +504,7 @@
         "total": {
             "no_entered": 10185,
             "no_sat": 9851,
-            "chin_ver": 56.6,
+            "chinese_version": 56.6,
             "5**": 116,
             "5*+": 494,
             "5+": 1173,
@@ -521,7 +521,7 @@
         "male": {
             "no_entered": 313,
             "no_sat": 295,
-            "chin_ver": 91.2,
+            "chinese_version": 91.2,
             "5**": 0,
             "5*+": 1,
             "5+": 2,
@@ -534,7 +534,7 @@
         "female": {
             "no_entered": 604,
             "no_sat": 588,
-            "chin_ver": 89.5,
+            "chinese_version": 89.5,
             "5**": 3,
             "5*+": 12,
             "5+": 29,
@@ -547,7 +547,7 @@
         "total": {
             "no_entered": 917,
             "no_sat": 883,
-            "chin_ver": 90.0,
+            "chinese_version": 90.0,
             "5**": 3,
             "5*+": 13,
             "5+": 31,
@@ -564,7 +564,7 @@
         "male": {
             "no_entered": 2631,
             "no_sat": 2509,
-            "chin_ver": 71.5,
+            "chinese_version": 71.5,
             "5**": 31,
             "5*+": 132,
             "5+": 335,
@@ -577,7 +577,7 @@
         "female": {
             "no_entered": 3087,
             "no_sat": 3015,
-            "chin_ver": 52.4,
+            "chinese_version": 52.4,
             "5**": 53,
             "5*+": 193,
             "5+": 483,
@@ -590,7 +590,7 @@
         "total": {
             "no_entered": 5718,
             "no_sat": 5524,
-            "chin_ver": 61.1,
+            "chinese_version": 61.1,
             "5**": 84,
             "5*+": 325,
             "5+": 818,
@@ -607,7 +607,7 @@
         "male": {
             "no_entered": 4632,
             "no_sat": 4419,
-            "chin_ver": 63.0,
+            "chinese_version": 63.0,
             "5**": 38,
             "5*+": 153,
             "5+": 394,
@@ -620,7 +620,7 @@
         "female": {
             "no_entered": 1414,
             "no_sat": 1357,
-            "chin_ver": 42.3,
+            "chinese_version": 42.3,
             "5**": 15,
             "5*+": 59,
             "5+": 128,
@@ -633,7 +633,7 @@
         "total": {
             "no_entered": 6046,
             "no_sat": 5776,
-            "chin_ver": 58.1,
+            "chinese_version": 58.1,
             "5**": 53,
             "5*+": 212,
             "5+": 522,
@@ -650,7 +650,7 @@
         "male": {
             "no_entered": 28308,
             "no_sat": 27704,
-            "chin_ver": 88.6,
+            "chinese_version": 88.6,
             "5**": 146,
             "5*+": 589,
             "5+": 1555,
@@ -663,7 +663,7 @@
         "female": {
             "no_entered": 26919,
             "no_sat": 26574,
-            "chin_ver": 82.6,
+            "chinese_version": 82.6,
             "5**": 330,
             "5*+": 1259,
             "5+": 3170,
@@ -676,7 +676,7 @@
         "total": {
             "no_entered": 55227,
             "no_sat": 54278,
-            "chin_ver": 85.7,
+            "chinese_version": 85.7,
             "5**": 476,
             "5*+": 1848,
             "5+": 4725,
@@ -693,7 +693,7 @@
         "male": {
             "no_entered": 31,
             "no_sat": 24,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 1,
             "5*+": 1,
             "5+": 3,
@@ -706,7 +706,7 @@
         "female": {
             "no_entered": 285,
             "no_sat": 280,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 7,
             "5*+": 30,
             "5+": 74,
@@ -719,7 +719,7 @@
         "total": {
             "no_entered": 316,
             "no_sat": 304,
-            "chin_ver": "-",
+            "chinese_version": null,
             "5**": 8,
             "5*+": 31,
             "5+": 77,
@@ -736,7 +736,7 @@
         "male": {
             "no_entered": 29501,
             "no_sat": 28326,
-            "chin_ver": 45.7,
+            "chinese_version": 45.7,
             "5**": 657,
             "5*+": 2213,
             "5+": 5072,
@@ -749,7 +749,7 @@
         "female": {
             "no_entered": 27779,
             "no_sat": 27023,
-            "chin_ver": 37.2,
+            "chinese_version": 37.2,
             "5**": 183,
             "5*+": 976,
             "5+": 3088,
@@ -762,7 +762,7 @@
         "total": {
             "no_entered": 57280,
             "no_sat": 55349,
-            "chin_ver": 41.6,
+            "chinese_version": 41.6,
             "5**": 840,
             "5*+": 3189,
             "5+": 8160,
@@ -779,7 +779,7 @@
         "male": {
             "no_entered": 1882,
             "no_sat": 1733,
-            "chin_ver": 24.7,
+            "chinese_version": 24.7,
             "5**": 66,
             "5*+": 241,
             "5+": 545,
@@ -792,7 +792,7 @@
         "female": {
             "no_entered": 1233,
             "no_sat": 1161,
-            "chin_ver": 18.1,
+            "chinese_version": 18.1,
             "5**": 24,
             "5*+": 139,
             "5+": 355,
@@ -805,7 +805,7 @@
         "total": {
             "no_entered": 3115,
             "no_sat": 2894,
-            "chin_ver": 22.0,
+            "chinese_version": 22.0,
             "5**": 90,
             "5*+": 380,
             "5+": 900,
@@ -822,7 +822,7 @@
         "male": {
             "no_entered": 3755,
             "no_sat": 3466,
-            "chin_ver": 14.8,
+            "chinese_version": 14.8,
             "5**": 171,
             "5*+": 646,
             "5+": 1527,
@@ -835,7 +835,7 @@
         "female": {
             "no_entered": 1301,
             "no_sat": 1221,
-            "chin_ver": 13.3,
+            "chinese_version": 13.3,
             "5**": 33,
             "5*+": 127,
             "5+": 470,
@@ -848,7 +848,7 @@
         "total": {
             "no_entered": 5056,
             "no_sat": 4687,
-            "chin_ver": 14.4,
+            "chinese_version": 14.4,
             "5**": 204,
             "5*+": 773,
             "5+": 1997,
@@ -865,7 +865,7 @@
         "male": {
             "no_entered": 66,
             "no_sat": 66,
-            "chin_ver": 22.7,
+            "chinese_version": 22.7,
             "5**": 2,
             "5*+": 8,
             "5+": 18,
@@ -878,7 +878,7 @@
         "female": {
             "no_entered": 105,
             "no_sat": 103,
-            "chin_ver": 10.7,
+            "chinese_version": 10.7,
             "5**": 1,
             "5*+": 5,
             "5+": 15,
@@ -891,7 +891,7 @@
         "total": {
             "no_entered": 171,
             "no_sat": 169,
-            "chin_ver": 15.4,
+            "chinese_version": 15.4,
             "5**": 3,
             "5*+": 13,
             "5+": 33,
@@ -908,7 +908,7 @@
         "male": {
             "no_entered": 775,
             "no_sat": 756,
-            "chin_ver": 90.5,
+            "chinese_version": 90.5,
             "5**": 1,
             "5*+": 4,
             "5+": 13,
@@ -921,7 +921,7 @@
         "female": {
             "no_entered": 225,
             "no_sat": 221,
-            "chin_ver": 87.3,
+            "chinese_version": 87.3,
             "5**": 0,
             "5*+": 4,
             "5+": 4,
@@ -934,7 +934,7 @@
         "total": {
             "no_entered": 1000,
             "no_sat": 977,
-            "chin_ver": 89.8,
+            "chinese_version": 89.8,
             "5**": 1,
             "5*+": 8,
             "5+": 17,
@@ -951,7 +951,7 @@
         "male": {
             "no_entered": 8599,
             "no_sat": 8296,
-            "chin_ver": 29.3,
+            "chinese_version": 29.3,
             "5**": 274,
             "5*+": 1047,
             "5+": 2480,
@@ -964,7 +964,7 @@
         "female": {
             "no_entered": 3046,
             "no_sat": 2959,
-            "chin_ver": 18.6,
+            "chinese_version": 18.6,
             "5**": 50,
             "5*+": 262,
             "5+": 741,
@@ -977,7 +977,7 @@
         "total": {
             "no_entered": 11645,
             "no_sat": 11255,
-            "chin_ver": 26.5,
+            "chinese_version": 26.5,
             "5**": 324,
             "5*+": 1309,
             "5+": 3221,
@@ -994,7 +994,7 @@
         "male": {
             "no_entered": 296,
             "no_sat": 264,
-            "chin_ver": 87.1,
+            "chinese_version": 87.1,
             "5**": 0,
             "5*+": 2,
             "5+": 6,
@@ -1007,7 +1007,7 @@
         "female": {
             "no_entered": 229,
             "no_sat": 218,
-            "chin_ver": 62.4,
+            "chinese_version": 62.4,
             "5**": 0,
             "5*+": 2,
             "5+": 3,
@@ -1020,7 +1020,7 @@
         "total": {
             "no_entered": 525,
             "no_sat": 482,
-            "chin_ver": 75.9,
+            "chinese_version": 75.9,
             "5**": 0,
             "5*+": 4,
             "5+": 9,
@@ -1037,7 +1037,7 @@
         "male": {
             "no_entered": 54,
             "no_sat": 52,
-            "chin_ver": 96.2,
+            "chinese_version": 96.2,
             "5**": 0,
             "5*+": 1,
             "5+": 1,
@@ -1050,7 +1050,7 @@
         "female": {
             "no_entered": 17,
             "no_sat": 17,
-            "chin_ver": 100.0,
+            "chinese_version": 100.0,
             "5**": 0,
             "5*+": 0,
             "5+": 0,
@@ -1063,7 +1063,7 @@
         "total": {
             "no_entered": 71,
             "no_sat": 69,
-            "chin_ver": 97.1,
+            "chinese_version": 97.1,
             "5**": 0,
             "5*+": 1,
             "5+": 1,
@@ -1080,7 +1080,7 @@
         "male": {
             "no_entered": 257,
             "no_sat": 246,
-            "chin_ver": 72.0,
+            "chinese_version": 72.0,
             "5**": 1,
             "5*+": 2,
             "5+": 6,
@@ -1093,7 +1093,7 @@
         "female": {
             "no_entered": 134,
             "no_sat": 129,
-            "chin_ver": 60.5,
+            "chinese_version": 60.5,
             "5**": 0,
             "5*+": 0,
             "5+": 3,
@@ -1106,7 +1106,7 @@
         "total": {
             "no_entered": 391,
             "no_sat": 375,
-            "chin_ver": 68.0,
+            "chinese_version": 68.0,
             "5**": 1,
             "5*+": 2,
             "5+": 9,
@@ -1123,7 +1123,7 @@
         "male": {
             "no_entered": 350,
             "no_sat": 316,
-            "chin_ver": 88.6,
+            "chinese_version": 88.6,
             "5**": 0,
             "5*+": 5,
             "5+": 11,
@@ -1136,7 +1136,7 @@
         "female": {
             "no_entered": 246,
             "no_sat": 234,
-            "chin_ver": 65.0,
+            "chinese_version": 65.0,
             "5**": 2,
             "5*+": 3,
             "5+": 10,
@@ -1149,7 +1149,7 @@
         "total": {
             "no_entered": 596,
             "no_sat": 550,
-            "chin_ver": 78.5,
+            "chinese_version": 78.5,
             "5**": 2,
             "5*+": 8,
             "5+": 21,
@@ -1166,7 +1166,7 @@
         "male": {
             "no_entered": 553,
             "no_sat": 510,
-            "chin_ver": 79.8,
+            "chinese_version": 79.8,
             "5**": 2,
             "5*+": 3,
             "5+": 9,
@@ -1179,7 +1179,7 @@
         "female": {
             "no_entered": 363,
             "no_sat": 346,
-            "chin_ver": 61.6,
+            "chinese_version": 61.6,
             "5**": 0,
             "5*+": 3,
             "5+": 6,
@@ -1192,7 +1192,7 @@
         "total": {
             "no_entered": 916,
             "no_sat": 856,
-            "chin_ver": 72.4,
+            "chinese_version": 72.4,
             "5**": 2,
             "5*+": 6,
             "5+": 15,
@@ -1209,7 +1209,7 @@
         "male": {
             "no_entered": 311,
             "no_sat": 298,
-            "chin_ver": 76.2,
+            "chinese_version": 76.2,
             "5**": 3,
             "5*+": 10,
             "5+": 23,
@@ -1222,7 +1222,7 @@
         "female": {
             "no_entered": 151,
             "no_sat": 146,
-            "chin_ver": 65.1,
+            "chinese_version": 65.1,
             "5**": 0,
             "5*+": 1,
             "5+": 5,
@@ -1235,7 +1235,7 @@
         "total": {
             "no_entered": 462,
             "no_sat": 444,
-            "chin_ver": 72.5,
+            "chinese_version": 72.5,
             "5**": 3,
             "5*+": 11,
             "5+": 28,
@@ -1252,7 +1252,7 @@
         "male": {
             "no_entered": 607,
             "no_sat": 562,
-            "chin_ver": 81.3,
+            "chinese_version": 81.3,
             "5**": 1,
             "5*+": 5,
             "5+": 13,
@@ -1265,7 +1265,7 @@
         "female": {
             "no_entered": 380,
             "no_sat": 364,
-            "chin_ver": 63.5,
+            "chinese_version": 63.5,
             "5**": 0,
             "5*+": 2,
             "5+": 6,
@@ -1278,7 +1278,7 @@
         "total": {
             "no_entered": 987,
             "no_sat": 926,
-            "chin_ver": 74.3,
+            "chinese_version": 74.3,
             "5**": 1,
             "5*+": 7,
             "5+": 19,
@@ -1295,7 +1295,7 @@
         "male": {
             "no_entered": 65,
             "no_sat": 61,
-            "chin_ver": 75.4,
+            "chinese_version": 75.4,
             "5**": 1,
             "5*+": 3,
             "5+": 6,
@@ -1308,7 +1308,7 @@
         "female": {
             "no_entered": 76,
             "no_sat": 76,
-            "chin_ver": 51.3,
+            "chinese_version": 51.3,
             "5**": 1,
             "5*+": 1,
             "5+": 4,
@@ -1321,7 +1321,7 @@
         "total": {
             "no_entered": 141,
             "no_sat": 137,
-            "chin_ver": 62.0,
+            "chinese_version": 62.0,
             "5**": 2,
             "5*+": 4,
             "5+": 10,
@@ -1338,7 +1338,7 @@
         "male": {
             "no_entered": 39,
             "no_sat": 36,
-            "chin_ver": 97.2,
+            "chinese_version": 97.2,
             "5**": 0,
             "5*+": 0,
             "5+": 0,
@@ -1351,7 +1351,7 @@
         "female": {
             "no_entered": 144,
             "no_sat": 143,
-            "chin_ver": 59.4,
+            "chinese_version": 59.4,
             "5**": 1,
             "5*+": 5,
             "5+": 8,
@@ -1364,7 +1364,7 @@
         "total": {
             "no_entered": 183,
             "no_sat": 179,
-            "chin_ver": 67.0,
+            "chinese_version": 67.0,
             "5**": 1,
             "5*+": 5,
             "5+": 8,
@@ -1381,7 +1381,7 @@
         "male": {
             "no_entered": 19,
             "no_sat": 15,
-            "chin_ver": 100.0,
+            "chinese_version": 100.0,
             "5**": 0,
             "5*+": 0,
             "5+": 0,
@@ -1394,7 +1394,7 @@
         "female": {
             "no_entered": 59,
             "no_sat": 58,
-            "chin_ver": 79.3,
+            "chinese_version": 79.3,
             "5**": 0,
             "5*+": 1,
             "5+": 2,
@@ -1407,7 +1407,7 @@
         "total": {
             "no_entered": 78,
             "no_sat": 73,
-            "chin_ver": 83.6,
+            "chinese_version": 83.6,
             "5**": 0,
             "5*+": 1,
             "5+": 2,
@@ -1424,7 +1424,7 @@
         "male": {
             "no_entered": 1653,
             "no_sat": 1520,
-            "chin_ver": 89.6,
+            "chinese_version": 89.6,
             "5**": 3,
             "5*+": 15,
             "5+": 42,
@@ -1437,7 +1437,7 @@
         "female": {
             "no_entered": 2584,
             "no_sat": 2465,
-            "chin_ver": 89.1,
+            "chinese_version": 89.1,
             "5**": 15,
             "5*+": 59,
             "5+": 135,
@@ -1450,7 +1450,7 @@
         "total": {
             "no_entered": 4237,
             "no_sat": 3985,
-            "chin_ver": 89.3,
+            "chinese_version": 89.3,
             "5**": 18,
             "5*+": 74,
             "5+": 177,
@@ -1467,7 +1467,7 @@
         "male": {
             "no_entered": 977,
             "no_sat": 932,
-            "chin_ver": 89.7,
+            "chinese_version": 89.7,
             "5**": 3,
             "5*+": 18,
             "5+": 50,
@@ -1480,7 +1480,7 @@
         "female": {
             "no_entered": 2796,
             "no_sat": 2755,
-            "chin_ver": 84.4,
+            "chinese_version": 84.4,
             "5**": 20,
             "5*+": 82,
             "5+": 204,
@@ -1493,7 +1493,7 @@
         "total": {
             "no_entered": 3773,
             "no_sat": 3687,
-            "chin_ver": 85.7,
+            "chinese_version": 85.7,
             "5**": 23,
             "5*+": 100,
             "5+": 254,
@@ -1510,7 +1510,7 @@
         "male": {
             "no_entered": 172288,
             "no_sat": 166086,
-            "chin_ver": 58.8,
+            "chinese_version": 58.8,
             "5**": 2294,
             "5*+": 8288,
             "5+": 19715,
@@ -1523,7 +1523,7 @@
         "female": {
             "no_entered": 165045,
             "no_sat": 161511,
-            "chin_ver": 52.2,
+            "chinese_version": 52.2,
             "5**": 1950,
             "5*+": 8188,
             "5+": 21217,
@@ -1536,7 +1536,7 @@
         "total": {
             "no_entered": 337333,
             "no_sat": 327597,
-            "chin_ver": 55.6,
+            "chinese_version": 55.6,
             "5**": 4244,
             "5*+": 16476,
             "5+": 40932,

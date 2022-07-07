@@ -43,8 +43,8 @@ for year in os.listdir("raw"):
             subjects[p][row["gender"].lower()] = {
                 "no_entered": int(row["no. entered"]),
                 "no_sat": int(row["no. sat"]),
-                "chin_ver": ("-" if row["chinese version %"] == "-"
-                             else float(row["chinese version %"])),
+                "chinese_version": (None if row["chinese version %"] == "-"
+                                    else float(row["chinese version %"])),
                 "5**": int(row["performance - 5**"]),
                 "5*+": int(row["performance - 5*+"]),
                 "5+": int(row["performance - 5+"]),

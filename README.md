@@ -24,9 +24,9 @@ Sample subject data:
     "subject": "Mathematics",
     "subcategory": "Compulsory Part",
     "male": {
-        "no_entered": 21303,
-        "no_sat": 20835,
-        "chinese_version": 41.7,
+        "noEntered": 21303,
+        "noSat": 20835,
+        "chineseVersion": 41.7,
         "5**": 438,
         "5*+": 1609,
         "5+": 3601,
@@ -37,9 +37,9 @@ Sample subject data:
         "U": 1611
     },
     "female": {
-        "no_entered": 21000,
-        "no_sat": 20662,
-        "chinese_version": 32.9,
+        "noEntered": 21000,
+        "noSat": 20662,
+        "chineseVersion": 32.9,
         "5**": 159,
         "5*+": 873,
         "5+": 2554,
@@ -50,9 +50,9 @@ Sample subject data:
         "U": 1252
     },
     "total": {
-        "no_entered": 42303,
-        "no_sat": 41497,
-        "chinese_version": 37.3,
+        "noEntered": 42303,
+        "noSat": 41497,
+        "chineseVersion": 37.3,
         "5**": 597,
         "5*+": 2482,
         "5+": 6155,

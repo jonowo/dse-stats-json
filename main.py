@@ -41,9 +41,9 @@ for year in os.listdir("raw"):
                 remove_duplicate_space(row["subject_2"]) or None
             )
             subjects[p][row["gender"].lower()] = {
-                "no_entered": int(row["no. entered"]),
-                "no_sat": int(row["no. sat"]),
-                "chinese_version": (None if row["chinese version %"] == "-"
+                "noEntered": int(row["no. entered"]),
+                "noSat": int(row["no. sat"]),
+                "chineseVersion": (None if row["chinese version %"] == "-"
                                     else float(row["chinese version %"])),
                 "5**": int(row["performance - 5**"]),
                 "5*+": int(row["performance - 5*+"]),

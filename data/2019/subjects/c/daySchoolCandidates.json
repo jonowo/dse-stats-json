@@ -1,0 +1,233 @@
+[
+    {
+        "subject": "French Language",
+        "male": {
+            "noEntered": 16,
+            "noSat": 15,
+            "a": 3,
+            "b+": 7,
+            "c+": 11,
+            "d+": 13,
+            "e+": 14,
+            "U": 1
+        },
+        "female": {
+            "noEntered": 24,
+            "noSat": 21,
+            "a": 6,
+            "b+": 10,
+            "c+": 12,
+            "d+": 15,
+            "e+": 17,
+            "U": 4
+        },
+        "total": {
+            "noEntered": 40,
+            "noSat": 36,
+            "a": 9,
+            "b+": 17,
+            "c+": 23,
+            "d+": 28,
+            "e+": 31,
+            "U": 5
+        }
+    },
+    {
+        "subject": "German Language",
+        "male": {
+            "noEntered": 0,
+            "noSat": 0,
+            "a": null,
+            "b+": null,
+            "c+": null,
+            "d+": null,
+            "e+": null,
+            "U": null
+        },
+        "female": {
+            "noEntered": 3,
+            "noSat": 3,
+            "a": 1,
+            "b+": 1,
+            "c+": 2,
+            "d+": 2,
+            "e+": 3,
+            "U": 0
+        },
+        "total": {
+            "noEntered": 3,
+            "noSat": 3,
+            "a": 1,
+            "b+": 1,
+            "c+": 2,
+            "d+": 2,
+            "e+": 3,
+            "U": 0
+        }
+    },
+    {
+        "subject": "Hindi Language",
+        "male": {
+            "noEntered": 5,
+            "noSat": 3,
+            "a": 0,
+            "b+": 0,
+            "c+": 2,
+            "d+": 2,
+            "e+": 3,
+            "U": 0
+        },
+        "female": {
+            "noEntered": 5,
+            "noSat": 5,
+            "a": 2,
+            "b+": 2,
+            "c+": 3,
+            "d+": 3,
+            "e+": 4,
+            "U": 1
+        },
+        "total": {
+            "noEntered": 10,
+            "noSat": 8,
+            "a": 2,
+            "b+": 2,
+            "c+": 5,
+            "d+": 5,
+            "e+": 7,
+            "U": 1
+        }
+    },
+    {
+        "subject": "Japanese Language",
+        "male": {
+            "noEntered": 96,
+            "noSat": 92,
+            "a": 47,
+            "b+": 68,
+            "c+": 77,
+            "d+": 82,
+            "e+": 88,
+            "U": 4
+        },
+        "female": {
+            "noEntered": 207,
+            "noSat": 202,
+            "a": 113,
+            "b+": 156,
+            "c+": 180,
+            "d+": 191,
+            "e+": 196,
+            "U": 6
+        },
+        "total": {
+            "noEntered": 303,
+            "noSat": 294,
+            "a": 160,
+            "b+": 224,
+            "c+": 257,
+            "d+": 273,
+            "e+": 284,
+            "U": 10
+        }
+    },
+    {
+        "subject": "Spanish Language",
+        "male": {
+            "noEntered": 11,
+            "noSat": 10,
+            "a": 3,
+            "b+": 6,
+            "c+": 7,
+            "d+": 8,
+            "e+": 10,
+            "U": 0
+        },
+        "female": {
+            "noEntered": 5,
+            "noSat": 5,
+            "a": 3,
+            "b+": 3,
+            "c+": 4,
+            "d+": 4,
+            "e+": 5,
+            "U": 0
+        },
+        "total": {
+            "noEntered": 16,
+            "noSat": 15,
+            "a": 6,
+            "b+": 9,
+            "c+": 11,
+            "d+": 12,
+            "e+": 15,
+            "U": 0
+        }
+    },
+    {
+        "subject": "Urdu Language",
+        "male": {
+            "noEntered": 14,
+            "noSat": 9,
+            "a": 5,
+            "b+": 6,
+            "c+": 6,
+            "d+": 6,
+            "e+": 6,
+            "U": 3
+        },
+        "female": {
+            "noEntered": 13,
+            "noSat": 13,
+            "a": 6,
+            "b+": 8,
+            "c+": 11,
+            "d+": 13,
+            "e+": 13,
+            "U": 0
+        },
+        "total": {
+            "noEntered": 27,
+            "noSat": 22,
+            "a": 11,
+            "b+": 14,
+            "c+": 17,
+            "d+": 19,
+            "e+": 19,
+            "U": 3
+        }
+    },
+    {
+        "subject": "All Category C subjects",
+        "male": {
+            "noEntered": 142,
+            "noSat": 129,
+            "a": 58,
+            "b+": 87,
+            "c+": 103,
+            "d+": 111,
+            "e+": 121,
+            "U": 8
+        },
+        "female": {
+            "noEntered": 257,
+            "noSat": 249,
+            "a": 131,
+            "b+": 180,
+            "c+": 212,
+            "d+": 228,
+            "e+": 238,
+            "U": 11
+        },
+        "total": {
+            "noEntered": 399,
+            "noSat": 378,
+            "a": 189,
+            "b+": 267,
+            "c+": 315,
+            "d+": 339,
+            "e+": 359,
+            "U": 19
+        }
+    }
+]

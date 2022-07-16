@@ -1,0 +1,50 @@
+[
+    {
+        "description": "No. of candidates",
+        "male": 25329,
+        "female": 25491,
+        "total": 50820
+    },
+    {
+        "description": "Level 2+ in the four core subjects",
+        "male": 16161,
+        "female": 18760,
+        "total": 34921
+    },
+    {
+        "description": "Level 2+ in five Category A subjects",
+        "male": 18217,
+        "female": 20295,
+        "total": 38512
+    },
+    {
+        "description": "Level 2+ in five Category A / B subjects",
+        "male": 18265,
+        "female": 20377,
+        "total": 38642
+    },
+    {
+        "description": "Level 2+ in five Category A subjects, including Chinese Language and English Language",
+        "male": 16449,
+        "female": 19230,
+        "total": 35679
+    },
+    {
+        "description": "Level 2+ in five Category A / B subjects, including Chinese Language and English Language",
+        "male": 16463,
+        "female": 19270,
+        "total": 35733
+    },
+    {
+        "description": "Level 2+ in five Category A subjects, including Chinese Language, English Language and Mathematics",
+        "male": 16129,
+        "female": 18583,
+        "total": 34712
+    },
+    {
+        "description": "Level 2+ in five Category A / B subjects, including Chinese Language, English Language and Mathematics",
+        "male": 16134,
+        "female": 18605,
+        "total": 34739
+    }
+]

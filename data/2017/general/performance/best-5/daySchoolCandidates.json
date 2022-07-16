@@ -1,0 +1,74 @@
+[
+    {
+        "description": "No. of candidates",
+        "male": 24881,
+        "female": 24815,
+        "total": 49696
+    },
+    {
+        "description": "Five level 5**",
+        "male": 51,
+        "female": 37,
+        "total": 88
+    },
+    {
+        "description": "Five level 5* or above",
+        "male": 362,
+        "female": 360,
+        "total": 722
+    },
+    {
+        "description": "Five level 5 or above",
+        "male": 1133,
+        "female": 1356,
+        "total": 2489
+    },
+    {
+        "description": "Five level 4 or above",
+        "male": 4394,
+        "female": 6065,
+        "total": 10459
+    },
+    {
+        "description": "Five level 3 or above",
+        "male": 10019,
+        "female": 12916,
+        "total": 22935
+    },
+    {
+        "description": "Five level 2 or above",
+        "male": 17447,
+        "female": 19844,
+        "total": 37291
+    },
+    {
+        "description": "Five level 1 or above",
+        "male": 21831,
+        "female": 23079,
+        "total": 44910
+    },
+    {
+        "description": "Four level 1 or above",
+        "male": 23399,
+        "female": 23996,
+        "total": 47395
+    },
+    {
+        "description": "Three level 1 or above",
+        "male": 24166,
+        "female": 24458,
+        "total": 48624
+    },
+    {
+        "description": "Two level 1 or above",
+        "male": 24534,
+        "female": 24686,
+        "total": 49220
+    },
+    {
+        "description": "One level 1 or above",
+        "male": 24735,
+        "female": 24757,
+        "total": 49492
+    }
+]

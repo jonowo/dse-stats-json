@@ -1,0 +1,223 @@
+﻿No.,Subject,Subject_2,Gender,Type,No. entered,No. of candidates fulfilling attendance requirement,Attained with Distinction (II),Attained with Distinction (I) or above,Attained or above,Unattained
+1,Applied Science,Animal Care,Male,Number,10,8,0,3,6,2
+2,Applied Science,Animal Care,Male,Percentage,,,0.0%,37.5%,75.0%,25.0%
+3,Applied Science,Animal Care,Female,Number,32,28,4,15,24,4
+4,Applied Science,Animal Care,Female,Percentage,,,14.3%,53.6%,85.7%,14.3%
+5,Applied Science,Animal Care,Total,Number,42,36,4,18,30,6
+6,Applied Science,Animal Care,Total,Percentage,,,11.1%,50.0%,83.3%,16.7%
+7,Applied Science,Applied Psychology,Male,Number,33,29,1,6,29,0
+8,Applied Science,Applied Psychology,Male,Percentage,,,3.4%,20.7%,100.0%,0.0%
+9,Applied Science,Applied Psychology,Female,Number,60,56,9,27,54,2
+10,Applied Science,Applied Psychology,Female,Percentage,,,16.1%,48.2%,96.4%,3.6%
+11,Applied Science,Applied Psychology,Total,Number,93,85,10,33,83,2
+12,Applied Science,Applied Psychology,Total,Percentage,,,11.8%,38.8%,97.6%,2.4%
+13,Applied Science,Exercise Science and Health Fitness,Male,Number,67,45,3,12,40,5
+14,Applied Science,Exercise Science and Health Fitness,Male,Percentage,,,6.7%,26.7%,88.9%,11.1%
+15,Applied Science,Exercise Science and Health Fitness,Female,Number,15,14,1,7,13,1
+16,Applied Science,Exercise Science and Health Fitness,Female,Percentage,,,7.1%,50.0%,92.9%,7.1%
+17,Applied Science,Exercise Science and Health Fitness,Total,Number,82,59,4,19,53,6
+18,Applied Science,Exercise Science and Health Fitness,Total,Percentage,,,6.8%,32.2%,89.8%,10.2%
+19,Applied Science,Foundation in Chinese Medicine,Male,Number,41,41,6,17,38,3
+20,Applied Science,Foundation in Chinese Medicine,Male,Percentage,,,14.6%,41.5%,92.7%,7.3%
+21,Applied Science,Foundation in Chinese Medicine,Female,Number,42,42,11,23,40,2
+22,Applied Science,Foundation in Chinese Medicine,Female,Percentage,,,26.2%,54.8%,95.2%,4.8%
+23,Applied Science,Foundation in Chinese Medicine,Total,Number,83,83,17,40,78,5
+24,Applied Science,Foundation in Chinese Medicine,Total,Percentage,,,20.5%,48.2%,94.0%,6.0%
+25,Applied Science,Health Care Practice,Male,Number,36,35,3,11,31,4
+26,Applied Science,Health Care Practice,Male,Percentage,,,8.6%,31.4%,88.6%,11.4%
+27,Applied Science,Health Care Practice,Female,Number,95,89,8,34,84,5
+28,Applied Science,Health Care Practice,Female,Percentage,,,9.0%,38.2%,94.4%,5.6%
+29,Applied Science,Health Care Practice,Total,Number,131,124,11,45,115,9
+30,Applied Science,Health Care Practice,Total,Percentage,,,8.9%,36.3%,92.7%,7.3%
+31,Applied Science,Medical Laboratory Science,Male,Number,16,15,3,6,13,2
+32,Applied Science,Medical Laboratory Science,Male,Percentage,,,20.0%,40.0%,86.7%,13.3%
+33,Applied Science,Medical Laboratory Science,Female,Number,8,7,2,4,7,0
+34,Applied Science,Medical Laboratory Science,Female,Percentage,,,28.6%,57.1%,100.0%,0.0%
+35,Applied Science,Medical Laboratory Science,Total,Number,24,22,5,10,20,2
+36,Applied Science,Medical Laboratory Science,Total,Percentage,,,22.7%,45.5%,90.9%,9.1%
+37,Applied Science,Practical Psychology,Male,Number,43,38,2,11,38,0
+38,Applied Science,Practical Psychology,Male,Percentage,,,5.3%,28.9%,100.0%,0.0%
+39,Applied Science,Practical Psychology,Female,Number,39,39,11,25,39,0
+40,Applied Science,Practical Psychology,Female,Percentage,,,28.2%,64.1%,100.0%,0.0%
+41,Applied Science,Practical Psychology,Total,Number,82,77,13,36,77,0
+42,Applied Science,Practical Psychology,Total,Percentage,,,16.9%,46.8%,100.0%,0.0%
+43,Applied Science,Sports and Fitness Coaching,Male,Number,117,95,7,24,84,11
+44,Applied Science,Sports and Fitness Coaching,Male,Percentage,,,7.4%,25.3%,88.4%,11.6%
+45,Applied Science,Sports and Fitness Coaching,Female,Number,18,12,1,2,11,1
+46,Applied Science,Sports and Fitness Coaching,Female,Percentage,,,8.3%,16.7%,91.7%,8.3%
+47,Applied Science,Sports and Fitness Coaching,Total,Number,135,107,8,26,95,12
+48,Applied Science,Sports and Fitness Coaching,Total,Percentage,,,7.5%,24.3%,88.8%,11.2%
+49,"Business, Management and Law",Accounting for e-Business,Male,Number,12,10,2,4,9,1
+50,"Business, Management and Law",Accounting for e-Business,Male,Percentage,,,20.0%,40.0%,90.0%,10.0%
+51,"Business, Management and Law",Accounting for e-Business,Female,Number,13,12,4,5,12,0
+52,"Business, Management and Law",Accounting for e-Business,Female,Percentage,,,33.3%,41.7%,100.0%,0.0%
+53,"Business, Management and Law",Accounting for e-Business,Total,Number,25,22,6,9,21,1
+54,"Business, Management and Law",Accounting for e-Business,Total,Percentage,,,27.3%,40.9%,95.5%,4.5%
+55,"Business, Management and Law",Business Data Analysis,Male,Number,6,6,0,3,6,0
+56,"Business, Management and Law",Business Data Analysis,Male,Percentage,,,0.0%,50.0%,100.0%,0.0%
+57,"Business, Management and Law",Business Data Analysis,Female,Number,3,3,1,2,3,0
+58,"Business, Management and Law",Business Data Analysis,Female,Percentage,,,33.3%,66.7%,100.0%,0.0%
+59,"Business, Management and Law",Business Data Analysis,Total,Number,9,9,1,5,9,0
+60,"Business, Management and Law",Business Data Analysis,Total,Percentage,,,11.1%,55.6%,100.0%,0.0%
+61,"Business, Management and Law",Entrepreneurship for SME,Male,Number,9,9,1,3,9,0
+62,"Business, Management and Law",Entrepreneurship for SME,Male,Percentage,,,11.1%,33.3%,100.0%,0.0%
+63,"Business, Management and Law",Entrepreneurship for SME,Female,Number,4,4,1,2,4,0
+64,"Business, Management and Law",Entrepreneurship for SME,Female,Percentage,,,25.0%,50.0%,100.0%,0.0%
+65,"Business, Management and Law",Entrepreneurship for SME,Total,Number,13,13,2,5,13,0
+66,"Business, Management and Law",Entrepreneurship for SME,Total,Percentage,,,15.4%,38.5%,100.0%,0.0%
+67,"Business, Management and Law",Law Enforcement in Hong Kong,Male,Number,20,18,2,6,17,1
+68,"Business, Management and Law",Law Enforcement in Hong Kong,Male,Percentage,,,11.1%,33.3%,94.4%,5.6%
+69,"Business, Management and Law",Law Enforcement in Hong Kong,Female,Number,14,10,2,3,8,2
+70,"Business, Management and Law",Law Enforcement in Hong Kong,Female,Percentage,,,20.0%,30.0%,80.0%,20.0%
+71,"Business, Management and Law",Law Enforcement in Hong Kong,Total,Number,34,28,4,9,25,3
+72,"Business, Management and Law",Law Enforcement in Hong Kong,Total,Percentage,,,14.3%,32.1%,89.3%,10.7%
+73,"Business, Management and Law",Marketing and Online Promotion,Male,Number,12,10,2,5,10,0
+74,"Business, Management and Law",Marketing and Online Promotion,Male,Percentage,,,20.0%,50.0%,100.0%,0.0%
+75,"Business, Management and Law",Marketing and Online Promotion,Female,Number,9,9,2,8,9,0
+76,"Business, Management and Law",Marketing and Online Promotion,Female,Percentage,,,22.2%,88.9%,100.0%,0.0%
+77,"Business, Management and Law",Marketing and Online Promotion,Total,Number,21,19,4,13,19,0
+78,"Business, Management and Law",Marketing and Online Promotion,Total,Percentage,,,21.1%,68.4%,100.0%,0.0%
+79,Creative Studies,Computer Game and Animation Design,Male,Number,154,134,6,30,119,15
+80,Creative Studies,Computer Game and Animation Design,Male,Percentage,,,4.5%,22.4%,88.8%,11.2%
+81,Creative Studies,Computer Game and Animation Design,Female,Number,49,46,8,22,42,4
+82,Creative Studies,Computer Game and Animation Design,Female,Percentage,,,17.4%,47.8%,91.3%,8.7%
+83,Creative Studies,Computer Game and Animation Design,Total,Number,203,180,14,52,161,19
+84,Creative Studies,Computer Game and Animation Design,Total,Percentage,,,7.8%,28.9%,89.4%,10.6%
+85,Creative Studies,Display and Jewellery Design,Male,Number,4,4,1,1,4,0
+86,Creative Studies,Display and Jewellery Design,Male,Percentage,,,25.0%,25.0%,100.0%,0.0%
+87,Creative Studies,Display and Jewellery Design,Female,Number,15,14,1,5,14,0
+88,Creative Studies,Display and Jewellery Design,Female,Percentage,,,7.1%,35.7%,100.0%,0.0%
+89,Creative Studies,Display and Jewellery Design,Total,Number,19,18,2,6,18,0
+90,Creative Studies,Display and Jewellery Design,Total,Percentage,,,11.1%,33.3%,100.0%,0.0%
+91,Creative Studies,Fashion Image Design,Male,Number,31,28,1,3,27,1
+92,Creative Studies,Fashion Image Design,Male,Percentage,,,3.6%,10.7%,96.4%,3.6%
+93,Creative Studies,Fashion Image Design,Female,Number,122,115,11,34,115,0
+94,Creative Studies,Fashion Image Design,Female,Percentage,,,9.6%,29.6%,100.0%,0.0%
+95,Creative Studies,Fashion Image Design,Total,Number,153,143,12,37,142,1
+96,Creative Studies,Fashion Image Design,Total,Percentage,,,8.4%,25.9%,99.3%,0.7%
+97,Creative Studies,Interior Design,Male,Number,57,50,2,11,40,10
+98,Creative Studies,Interior Design,Male,Percentage,,,4.0%,22.0%,80.0%,20.0%
+99,Creative Studies,Interior Design,Female,Number,76,75,9,16,70,5
+100,Creative Studies,Interior Design,Female,Percentage,,,12.0%,21.3%,93.3%,6.7%
+101,Creative Studies,Interior Design,Total,Number,133,125,11,27,110,15
+102,Creative Studies,Interior Design,Total,Percentage,,,8.8%,21.6%,88.0%,12.0%
+103,Creative Studies,Taking a Chance on Dance,Male,Number,4,4,1,1,4,0
+104,Creative Studies,Taking a Chance on Dance,Male,Percentage,,,25.0%,25.0%,100.0%,0.0%
+105,Creative Studies,Taking a Chance on Dance,Female,Number,56,55,10,30,55,0
+106,Creative Studies,Taking a Chance on Dance,Female,Percentage,,,18.2%,54.5%,100.0%,0.0%
+107,Creative Studies,Taking a Chance on Dance,Total,Number,60,59,11,31,59,0
+108,Creative Studies,Taking a Chance on Dance,Total,Percentage,,,18.6%,52.5%,100.0%,0.0%
+109,Creative Studies,The Essentials of Theatre Arts,Male,Number,24,24,2,12,24,0
+110,Creative Studies,The Essentials of Theatre Arts,Male,Percentage,,,8.3%,50.0%,100.0%,0.0%
+111,Creative Studies,The Essentials of Theatre Arts,Female,Number,53,51,10,22,50,1
+112,Creative Studies,The Essentials of Theatre Arts,Female,Percentage,,,19.6%,43.1%,98.0%,2.0%
+113,Creative Studies,The Essentials of Theatre Arts,Total,Number,77,75,12,34,74,1
+114,Creative Studies,The Essentials of Theatre Arts,Total,Percentage,,,16.0%,45.3%,98.7%,1.3%
+115,Engineering and Production,Aviation Studies,Male,Number,169,154,3,13,143,11
+116,Engineering and Production,Aviation Studies,Male,Percentage,,,1.9%,8.4%,92.9%,7.1%
+117,Engineering and Production,Aviation Studies,Female,Number,108,101,7,34,101,0
+118,Engineering and Production,Aviation Studies,Female,Percentage,,,6.9%,33.7%,100.0%,0.0%
+119,Engineering and Production,Aviation Studies,Total,Number,277,255,10,47,244,11
+120,Engineering and Production,Aviation Studies,Total,Percentage,,,3.9%,18.4%,95.7%,4.3%
+121,Engineering and Production,Computer Forensic Technology,Male,Number,19,16,0,2,14,2
+122,Engineering and Production,Computer Forensic Technology,Male,Percentage,,,0.0%,12.5%,87.5%,12.5%
+123,Engineering and Production,Computer Forensic Technology,Female,Number,2,2,1,2,2,0
+124,Engineering and Production,Computer Forensic Technology,Female,Percentage,,,50.0%,100.0%,100.0%,0.0%
+125,Engineering and Production,Computer Forensic Technology,Total,Number,21,18,1,4,16,2
+126,Engineering and Production,Computer Forensic Technology,Total,Percentage,,,5.6%,22.2%,88.9%,11.1%
+127,Engineering and Production,Constructing Smart Cities,Male,Number,0,0,-,-,-,-
+128,Engineering and Production,Constructing Smart Cities,Male,Percentage,,,-,-,-,-
+129,Engineering and Production,Constructing Smart Cities,Female,Number,0,0,-,-,-,-
+130,Engineering and Production,Constructing Smart Cities,Female,Percentage,,,-,-,-,-
+131,Engineering and Production,Constructing Smart Cities,Total,Number,0,0,-,-,-,-
+132,Engineering and Production,Constructing Smart Cities,Total,Percentage,,,-,-,-,-
+133,Engineering and Production,Electrical and Energy Engineering,Male,Number,53,46,1,8,46,0
+134,Engineering and Production,Electrical and Energy Engineering,Male,Percentage,,,2.2%,17.4%,100.0%,0.0%
+135,Engineering and Production,Electrical and Energy Engineering,Female,Number,0,0,-,-,-,-
+136,Engineering and Production,Electrical and Energy Engineering,Female,Percentage,,,-,-,-,-
+137,Engineering and Production,Electrical and Energy Engineering,Total,Number,53,46,1,8,46,0
+138,Engineering and Production,Electrical and Energy Engineering,Total,Percentage,,,2.2%,17.4%,100.0%,0.0%
+139,Engineering and Production,Internet of Everything Application,Male,Number,13,13,0,3,9,4
+140,Engineering and Production,Internet of Everything Application,Male,Percentage,,,0.0%,23.1%,69.2%,30.8%
+141,Engineering and Production,Internet of Everything Application,Female,Number,5,5,1,3,5,0
+142,Engineering and Production,Internet of Everything Application,Female,Percentage,,,20.0%,60.0%,100.0%,0.0%
+143,Engineering and Production,Internet of Everything Application,Total,Number,18,18,1,6,14,4
+144,Engineering and Production,Internet of Everything Application,Total,Percentage,,,5.6%,33.3%,77.8%,22.2%
+145,Engineering and Production,Railway Studies,Male,Number,38,38,1,9,34,4
+146,Engineering and Production,Railway Studies,Male,Percentage,,,2.6%,23.7%,89.5%,10.5%
+147,Engineering and Production,Railway Studies,Female,Number,2,2,0,0,1,1
+148,Engineering and Production,Railway Studies,Female,Percentage,,,0.0%,0.0%,50.0%,50.0%
+149,Engineering and Production,Railway Studies,Total,Number,40,40,1,9,35,5
+150,Engineering and Production,Railway Studies,Total,Percentage,,,2.5%,22.5%,87.5%,12.5%
+151,Media and Communication,Creative Advertising,Male,Number,0,0,-,-,-,-
+152,Media and Communication,Creative Advertising,Male,Percentage,,,-,-,-,-
+153,Media and Communication,Creative Advertising,Female,Number,0,0,-,-,-,-
+154,Media and Communication,Creative Advertising,Female,Percentage,,,-,-,-,-
+155,Media and Communication,Creative Advertising,Total,Number,0,0,-,-,-,-
+156,Media and Communication,Creative Advertising,Total,Percentage,,,-,-,-,-
+157,Media and Communication,Film and Transmedia,Male,Number,61,53,9,13,49,4
+158,Media and Communication,Film and Transmedia,Male,Percentage,,,17.0%,24.5%,92.5%,7.5%
+159,Media and Communication,Film and Transmedia,Female,Number,54,53,9,20,53,0
+160,Media and Communication,Film and Transmedia,Female,Percentage,,,17.0%,37.7%,100.0%,0.0%
+161,Media and Communication,Film and Transmedia,Total,Number,115,106,18,33,102,4
+162,Media and Communication,Film and Transmedia,Total,Percentage,,,17.0%,31.1%,96.2%,3.8%
+163,Media and Communication,Magazine Editing and Production,Male,Number,5,5,0,2,5,0
+164,Media and Communication,Magazine Editing and Production,Male,Percentage,,,0.0%,40.0%,100.0%,0.0%
+165,Media and Communication,Magazine Editing and Production,Female,Number,10,10,3,6,10,0
+166,Media and Communication,Magazine Editing and Production,Female,Percentage,,,30.0%,60.0%,100.0%,0.0%
+167,Media and Communication,Magazine Editing and Production,Total,Number,15,15,3,8,15,0
+168,Media and Communication,Magazine Editing and Production,Total,Percentage,,,20.0%,53.3%,100.0%,0.0%
+169,Media and Communication,Public Relations and Communication,Male,Number,5,3,0,0,3,0
+170,Media and Communication,Public Relations and Communication,Male,Percentage,,,0.0%,0.0%,100.0%,0.0%
+171,Media and Communication,Public Relations and Communication,Female,Number,10,7,2,5,7,0
+172,Media and Communication,Public Relations and Communication,Female,Percentage,,,28.6%,71.4%,100.0%,0.0%
+173,Media and Communication,Public Relations and Communication,Total,Number,15,10,2,5,10,0
+174,Media and Communication,Public Relations and Communication,Total,Percentage,,,20.0%,50.0%,100.0%,0.0%
+175,Services,Child Care and Development,Male,Number,1,1,0,0,1,0
+176,Services,Child Care and Development,Male,Percentage,,,0.0%,0.0%,100.0%,0.0%
+177,Services,Child Care and Development,Female,Number,49,47,4,16,47,0
+178,Services,Child Care and Development,Female,Percentage,,,8.5%,34.0%,100.0%,0.0%
+179,Services,Child Care and Development,Total,Number,50,48,4,16,48,0
+180,Services,Child Care and Development,Total,Percentage,,,8.3%,33.3%,100.0%,0.0%
+181,Services,Child Care and Education,Male,Number,11,10,0,0,8,2
+182,Services,Child Care and Education,Male,Percentage,,,0.0%,0.0%,80.0%,20.0%
+183,Services,Child Care and Education,Female,Number,136,134,14,52,132,2
+184,Services,Child Care and Education,Female,Percentage,,,10.4%,38.8%,98.5%,1.5%
+185,Services,Child Care and Education,Total,Number,147,144,14,52,140,4
+186,Services,Child Care and Education,Total,Percentage,,,9.7%,36.1%,97.2%,2.8%
+187,Services,Fundamental Cosmetology,Male,Number,8,4,0,0,4,0
+188,Services,Fundamental Cosmetology,Male,Percentage,,,0.0%,0.0%,100.0%,0.0%
+189,Services,Fundamental Cosmetology,Female,Number,125,104,5,27,101,3
+190,Services,Fundamental Cosmetology,Female,Percentage,,,4.8%,26.0%,97.1%,2.9%
+191,Services,Fundamental Cosmetology,Total,Number,133,108,5,27,105,3
+192,Services,Fundamental Cosmetology,Total,Percentage,,,4.6%,25.0%,97.2%,2.8%
+193,Services,Hospitality Services in Practice,Male,Number,43,38,3,6,35,3
+194,Services,Hospitality Services in Practice,Male,Percentage,,,7.9%,15.8%,92.1%,7.9%
+195,Services,Hospitality Services in Practice,Female,Number,73,70,5,19,67,3
+196,Services,Hospitality Services in Practice,Female,Percentage,,,7.1%,27.1%,95.7%,4.3%
+197,Services,Hospitality Services in Practice,Total,Number,116,108,8,25,102,6
+198,Services,Hospitality Services in Practice,Total,Percentage,,,7.4%,23.1%,94.4%,5.6%
+199,Services,Hotel Operations,Male,Number,48,46,2,8,42,4
+200,Services,Hotel Operations,Male,Percentage,,,4.3%,17.4%,91.3%,8.7%
+201,Services,Hotel Operations,Female,Number,40,40,3,15,40,0
+202,Services,Hotel Operations,Female,Percentage,,,7.5%,37.5%,100.0%,0.0%
+203,Services,Hotel Operations,Total,Number,88,86,5,23,82,4
+204,Services,Hotel Operations,Total,Percentage,,,5.8%,26.7%,95.3%,4.7%
+205,Services,Pâtisserie and Café Operations,Male,Number,82,71,1,9,71,0
+206,Services,Pâtisserie and Café Operations,Male,Percentage,,,1.4%,12.7%,100.0%,0.0%
+207,Services,Pâtisserie and Café Operations,Female,Number,141,136,10,47,133,3
+208,Services,Pâtisserie and Café Operations,Female,Percentage,,,7.4%,34.6%,97.8%,2.2%
+209,Services,Pâtisserie and Café Operations,Total,Number,223,207,11,56,204,3
+210,Services,Pâtisserie and Café Operations,Total,Percentage,,,5.3%,27.1%,98.6%,1.4%
+211,Services,Western Cuisine,Male,Number,264,224,4,28,195,29
+212,Services,Western Cuisine,Male,Percentage,,,1.8%,12.5%,87.1%,12.9%
+213,Services,Western Cuisine,Female,Number,245,223,14,46,208,15
+214,Services,Western Cuisine,Female,Percentage,,,6.3%,20.6%,93.3%,6.7%
+215,Services,Western Cuisine,Total,Number,509,447,18,74,403,44
+216,Services,Western Cuisine,Total,Percentage,,,4.0%,16.6%,90.2%,9.8%
+217,All Category B subjects (except Applied Learning Chinese),,Male,Number,1516,1325,69,270,1207,118
+218,All Category B subjects (except Applied Learning Chinese),,Male,Percentage,,,5.2%,20.4%,91.1%,8.9%
+219,All Category B subjects (except Applied Learning Chinese),,Female,Number,1723,1615,184,578,1561,54
+220,All Category B subjects (except Applied Learning Chinese),,Female,Percentage,,,11.4%,35.8%,96.7%,3.3%
+221,All Category B subjects (except Applied Learning Chinese),,Total,Number,3239,2940,253,848,2768,172
+222,All Category B subjects (except Applied Learning Chinese),,Total,Percentage,,,8.6%,28.8%,94.1%,5.9%

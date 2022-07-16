@@ -1,0 +1,62 @@
+[
+    {
+        "description": "No. of candidates",
+        "male": 24378,
+        "female": 24755,
+        "total": 49133
+    },
+    {
+        "description": "10-12",
+        "male": 34,
+        "female": 79,
+        "total": 113
+    },
+    {
+        "description": "13-15",
+        "male": 592,
+        "female": 1169,
+        "total": 1761
+    },
+    {
+        "description": "16-18",
+        "male": 1986,
+        "female": 3354,
+        "total": 5340
+    },
+    {
+        "description": "19-21",
+        "male": 2554,
+        "female": 3864,
+        "total": 6418
+    },
+    {
+        "description": "22-24",
+        "male": 1640,
+        "female": 2213,
+        "total": 3853
+    },
+    {
+        "description": "25-27",
+        "male": 892,
+        "female": 1142,
+        "total": 2034
+    },
+    {
+        "description": "28-30",
+        "male": 504,
+        "female": 590,
+        "total": 1094
+    },
+    {
+        "description": "31-33",
+        "male": 275,
+        "female": 276,
+        "total": 551
+    },
+    {
+        "description": "34-35",
+        "male": 86,
+        "female": 69,
+        "total": 155
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": "Chinese for the Service Industry",
+        "male": {
+            "noEntered": 54,
+            "noFulfillingAttendanceRequirement": 53,
+            "Attained with Distinction": 15,
+            "Attained or above": 47,
+            "Unattained": 6
+        },
+        "female": {
+            "noEntered": 42,
+            "noFulfillingAttendanceRequirement": 42,
+            "Attained with Distinction": 11,
+            "Attained or above": 39,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 96,
+            "noFulfillingAttendanceRequirement": 95,
+            "Attained with Distinction": 26,
+            "Attained or above": 86,
+            "Unattained": 9
+        }
+    },
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": "Chinese in Business Service",
+        "male": {
+            "noEntered": 15,
+            "noFulfillingAttendanceRequirement": 15,
+            "Attained with Distinction": 3,
+            "Attained or above": 15,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 33,
+            "noFulfillingAttendanceRequirement": 33,
+            "Attained with Distinction": 9,
+            "Attained or above": 33,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 48,
+            "noFulfillingAttendanceRequirement": 48,
+            "Attained with Distinction": 12,
+            "Attained or above": 48,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": "Practical Chinese in Hospitality",
+        "male": {
+            "noEntered": 23,
+            "noFulfillingAttendanceRequirement": 23,
+            "Attained with Distinction": 2,
+            "Attained or above": 19,
+            "Unattained": 4
+        },
+        "female": {
+            "noEntered": 18,
+            "noFulfillingAttendanceRequirement": 17,
+            "Attained with Distinction": 3,
+            "Attained or above": 12,
+            "Unattained": 5
+        },
+        "total": {
+            "noEntered": 41,
+            "noFulfillingAttendanceRequirement": 40,
+            "Attained with Distinction": 5,
+            "Attained or above": 31,
+            "Unattained": 9
+        }
+    },
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": null,
+        "male": {
+            "noEntered": 92,
+            "noFulfillingAttendanceRequirement": 91,
+            "Attained with Distinction": 20,
+            "Attained or above": 81,
+            "Unattained": 10
+        },
+        "female": {
+            "noEntered": 93,
+            "noFulfillingAttendanceRequirement": 92,
+            "Attained with Distinction": 23,
+            "Attained or above": 84,
+            "Unattained": 8
+        },
+        "total": {
+            "noEntered": 185,
+            "noFulfillingAttendanceRequirement": 183,
+            "Attained with Distinction": 43,
+            "Attained or above": 165,
+            "Unattained": 18
+        }
+    }
+]

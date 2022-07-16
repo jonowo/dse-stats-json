@@ -1,0 +1,11 @@
+﻿No.,Description,Type,Physical Disabilities,Visual Disabilities,Aural Disabilities,Oral Disabilities,Specific Learning Disabilities,Autism Spectrum Disorder,Attention Deficit / Hyperactivity Disorder,Mental Derangement,Other Disabilities #,Total
+1,No. sat,Number,89,55,276,161,1159,312,350,184,44,2630
+2,Five level 2 or above,Number,49,46,189,71,294,163,228,117,20,1177
+3,Five level 3 or above,Number,23,29,114,37,64,88,110,56,11,532
+4,Five level 4 or above,Number,11,16,52,13,11,35,35,25,6,204
+5,Five level 5 or above,Number,4,5,7,2,1,6,4,6,1,36
+6,Core subjects at 2222 or better,Number,42,44,170,58,184,141,210,106,16,971
+7,"Core subjects at 2222 or better, with one elective at level 2+  ",Number,42,44,167,57,179,139,202,99,16,945
+8,Core subjects at 3322 or better,Number,25,31,103,23,35,75,109,63,11,475
+9,"Core subjects at 3322 or better, with one elective at level 2+ ",Number,25,31,102,22,34,75,108,61,11,469
+10,"Core subjects at 3322 or better, with one elective at level 3+",Number,24,29,97,21,34,69,103,52,10,439

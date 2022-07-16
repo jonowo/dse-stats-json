@@ -1,0 +1,954 @@
+[
+    {
+        "subject": "Applied Science",
+        "subcategory": "Animal Care",
+        "male": {
+            "noEntered": 13,
+            "noFulfillingAttendanceRequirement": 13,
+            "Attained with Distinction (II)": 5,
+            "Attained with Distinction (I) or above": 10,
+            "Attained or above": 13,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 49,
+            "noFulfillingAttendanceRequirement": 38,
+            "Attained with Distinction (II)": 6,
+            "Attained with Distinction (I) or above": 18,
+            "Attained or above": 35,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 62,
+            "noFulfillingAttendanceRequirement": 51,
+            "Attained with Distinction (II)": 11,
+            "Attained with Distinction (I) or above": 28,
+            "Attained or above": 48,
+            "Unattained": 3
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Applied Psychology",
+        "male": {
+            "noEntered": 67,
+            "noFulfillingAttendanceRequirement": 63,
+            "Attained with Distinction (II)": 6,
+            "Attained with Distinction (I) or above": 24,
+            "Attained or above": 60,
+            "Unattained": 3
+        },
+        "female": {
+            "noEntered": 68,
+            "noFulfillingAttendanceRequirement": 65,
+            "Attained with Distinction (II)": 10,
+            "Attained with Distinction (I) or above": 27,
+            "Attained or above": 63,
+            "Unattained": 2
+        },
+        "total": {
+            "noEntered": 135,
+            "noFulfillingAttendanceRequirement": 128,
+            "Attained with Distinction (II)": 16,
+            "Attained with Distinction (I) or above": 51,
+            "Attained or above": 123,
+            "Unattained": 5
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Exercise Science and Health Fitness",
+        "male": {
+            "noEntered": 38,
+            "noFulfillingAttendanceRequirement": 34,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 9,
+            "Attained or above": 33,
+            "Unattained": 1
+        },
+        "female": {
+            "noEntered": 12,
+            "noFulfillingAttendanceRequirement": 12,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 4,
+            "Attained or above": 12,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 50,
+            "noFulfillingAttendanceRequirement": 46,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 13,
+            "Attained or above": 45,
+            "Unattained": 1
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Foundation in Chinese Medicine",
+        "male": {
+            "noEntered": 48,
+            "noFulfillingAttendanceRequirement": 38,
+            "Attained with Distinction (II)": 7,
+            "Attained with Distinction (I) or above": 16,
+            "Attained or above": 35,
+            "Unattained": 3
+        },
+        "female": {
+            "noEntered": 59,
+            "noFulfillingAttendanceRequirement": 52,
+            "Attained with Distinction (II)": 9,
+            "Attained with Distinction (I) or above": 21,
+            "Attained or above": 49,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 107,
+            "noFulfillingAttendanceRequirement": 90,
+            "Attained with Distinction (II)": 16,
+            "Attained with Distinction (I) or above": 37,
+            "Attained or above": 84,
+            "Unattained": 6
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Health Care Practice",
+        "male": {
+            "noEntered": 39,
+            "noFulfillingAttendanceRequirement": 34,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 34,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 78,
+            "noFulfillingAttendanceRequirement": 74,
+            "Attained with Distinction (II)": 9,
+            "Attained with Distinction (I) or above": 32,
+            "Attained or above": 74,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 117,
+            "noFulfillingAttendanceRequirement": 108,
+            "Attained with Distinction (II)": 10,
+            "Attained with Distinction (I) or above": 37,
+            "Attained or above": 108,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Medical Laboratory Science",
+        "male": {
+            "noEntered": 15,
+            "noFulfillingAttendanceRequirement": 11,
+            "Attained with Distinction (II)": 6,
+            "Attained with Distinction (I) or above": 7,
+            "Attained or above": 11,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 42,
+            "noFulfillingAttendanceRequirement": 42,
+            "Attained with Distinction (II)": 21,
+            "Attained with Distinction (I) or above": 32,
+            "Attained or above": 39,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 57,
+            "noFulfillingAttendanceRequirement": 53,
+            "Attained with Distinction (II)": 27,
+            "Attained with Distinction (I) or above": 39,
+            "Attained or above": 50,
+            "Unattained": 3
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Practical Psychology",
+        "male": {
+            "noEntered": 48,
+            "noFulfillingAttendanceRequirement": 45,
+            "Attained with Distinction (II)": 5,
+            "Attained with Distinction (I) or above": 17,
+            "Attained or above": 45,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 57,
+            "noFulfillingAttendanceRequirement": 56,
+            "Attained with Distinction (II)": 14,
+            "Attained with Distinction (I) or above": 32,
+            "Attained or above": 56,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 105,
+            "noFulfillingAttendanceRequirement": 101,
+            "Attained with Distinction (II)": 19,
+            "Attained with Distinction (I) or above": 49,
+            "Attained or above": 101,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Applied Science",
+        "subcategory": "Sports and Fitness Coaching",
+        "male": {
+            "noEntered": 96,
+            "noFulfillingAttendanceRequirement": 63,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 9,
+            "Attained or above": 57,
+            "Unattained": 6
+        },
+        "female": {
+            "noEntered": 29,
+            "noFulfillingAttendanceRequirement": 17,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 2,
+            "Attained or above": 14,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 125,
+            "noFulfillingAttendanceRequirement": 80,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 11,
+            "Attained or above": 71,
+            "Unattained": 9
+        }
+    },
+    {
+        "subject": "Business, Management and Law",
+        "subcategory": "Accounting in Practice",
+        "male": {
+            "noEntered": 24,
+            "noFulfillingAttendanceRequirement": 20,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 13,
+            "Unattained": 7
+        },
+        "female": {
+            "noEntered": 16,
+            "noFulfillingAttendanceRequirement": 16,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 9,
+            "Attained or above": 15,
+            "Unattained": 1
+        },
+        "total": {
+            "noEntered": 40,
+            "noFulfillingAttendanceRequirement": 36,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 14,
+            "Attained or above": 28,
+            "Unattained": 8
+        }
+    },
+    {
+        "subject": "Business, Management and Law",
+        "subcategory": "Business Data Analysis",
+        "male": {
+            "noEntered": 15,
+            "noFulfillingAttendanceRequirement": 13,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 4,
+            "Attained or above": 11,
+            "Unattained": 2
+        },
+        "female": {
+            "noEntered": 2,
+            "noFulfillingAttendanceRequirement": 2,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 2,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 17,
+            "noFulfillingAttendanceRequirement": 15,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 13,
+            "Unattained": 2
+        }
+    },
+    {
+        "subject": "Business, Management and Law",
+        "subcategory": "Entrepreneurship for SME",
+        "male": {
+            "noEntered": 17,
+            "noFulfillingAttendanceRequirement": 16,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 2,
+            "Attained or above": 15,
+            "Unattained": 1
+        },
+        "female": {
+            "noEntered": 12,
+            "noFulfillingAttendanceRequirement": 12,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 3,
+            "Attained or above": 12,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 29,
+            "noFulfillingAttendanceRequirement": 28,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 27,
+            "Unattained": 1
+        }
+    },
+    {
+        "subject": "Business, Management and Law",
+        "subcategory": "Law Enforcement in Hong Kong",
+        "male": {
+            "noEntered": 26,
+            "noFulfillingAttendanceRequirement": 22,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 6,
+            "Attained or above": 21,
+            "Unattained": 1
+        },
+        "female": {
+            "noEntered": 23,
+            "noFulfillingAttendanceRequirement": 23,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 9,
+            "Attained or above": 23,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 49,
+            "noFulfillingAttendanceRequirement": 45,
+            "Attained with Distinction (II)": 7,
+            "Attained with Distinction (I) or above": 15,
+            "Attained or above": 44,
+            "Unattained": 1
+        }
+    },
+    {
+        "subject": "Business, Management and Law",
+        "subcategory": "Marketing and Online Promotion",
+        "male": {
+            "noEntered": 12,
+            "noFulfillingAttendanceRequirement": 10,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 2,
+            "Attained or above": 10,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 10,
+            "noFulfillingAttendanceRequirement": 10,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 9,
+            "Unattained": 1
+        },
+        "total": {
+            "noEntered": 22,
+            "noFulfillingAttendanceRequirement": 20,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 7,
+            "Attained or above": 19,
+            "Unattained": 1
+        }
+    },
+    {
+        "subject": "Creative Studies",
+        "subcategory": "Computer Game and Animation Design",
+        "male": {
+            "noEntered": 161,
+            "noFulfillingAttendanceRequirement": 145,
+            "Attained with Distinction (II)": 10,
+            "Attained with Distinction (I) or above": 31,
+            "Attained or above": 132,
+            "Unattained": 13
+        },
+        "female": {
+            "noEntered": 67,
+            "noFulfillingAttendanceRequirement": 63,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 22,
+            "Attained or above": 63,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 228,
+            "noFulfillingAttendanceRequirement": 208,
+            "Attained with Distinction (II)": 13,
+            "Attained with Distinction (I) or above": 53,
+            "Attained or above": 195,
+            "Unattained": 13
+        }
+    },
+    {
+        "subject": "Creative Studies",
+        "subcategory": "Fashion Image Design",
+        "male": {
+            "noEntered": 40,
+            "noFulfillingAttendanceRequirement": 34,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 3,
+            "Attained or above": 29,
+            "Unattained": 5
+        },
+        "female": {
+            "noEntered": 129,
+            "noFulfillingAttendanceRequirement": 124,
+            "Attained with Distinction (II)": 12,
+            "Attained with Distinction (I) or above": 32,
+            "Attained or above": 124,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 169,
+            "noFulfillingAttendanceRequirement": 158,
+            "Attained with Distinction (II)": 12,
+            "Attained with Distinction (I) or above": 35,
+            "Attained or above": 153,
+            "Unattained": 5
+        }
+    },
+    {
+        "subject": "Creative Studies",
+        "subcategory": "Interior Design",
+        "male": {
+            "noEntered": 46,
+            "noFulfillingAttendanceRequirement": 40,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 12,
+            "Attained or above": 37,
+            "Unattained": 3
+        },
+        "female": {
+            "noEntered": 34,
+            "noFulfillingAttendanceRequirement": 29,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 14,
+            "Attained or above": 29,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 80,
+            "noFulfillingAttendanceRequirement": 69,
+            "Attained with Distinction (II)": 6,
+            "Attained with Distinction (I) or above": 26,
+            "Attained or above": 66,
+            "Unattained": 3
+        }
+    },
+    {
+        "subject": "Creative Studies",
+        "subcategory": "Jewellery and Accessories Design",
+        "male": {
+            "noEntered": 6,
+            "noFulfillingAttendanceRequirement": 4,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 4,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 17,
+            "noFulfillingAttendanceRequirement": 15,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 4,
+            "Attained or above": 14,
+            "Unattained": 1
+        },
+        "total": {
+            "noEntered": 23,
+            "noFulfillingAttendanceRequirement": 19,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 18,
+            "Unattained": 1
+        }
+    },
+    {
+        "subject": "Creative Studies",
+        "subcategory": "Taking a Chance on Dance",
+        "male": {
+            "noEntered": 2,
+            "noFulfillingAttendanceRequirement": 2,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 2,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 43,
+            "noFulfillingAttendanceRequirement": 42,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 16,
+            "Attained or above": 42,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 45,
+            "noFulfillingAttendanceRequirement": 44,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 17,
+            "Attained or above": 44,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Engineering and Production",
+        "subcategory": "Aviation Studies",
+        "male": {
+            "noEntered": 216,
+            "noFulfillingAttendanceRequirement": 189,
+            "Attained with Distinction (II)": 11,
+            "Attained with Distinction (I) or above": 45,
+            "Attained or above": 174,
+            "Unattained": 15
+        },
+        "female": {
+            "noEntered": 97,
+            "noFulfillingAttendanceRequirement": 92,
+            "Attained with Distinction (II)": 8,
+            "Attained with Distinction (I) or above": 28,
+            "Attained or above": 88,
+            "Unattained": 4
+        },
+        "total": {
+            "noEntered": 313,
+            "noFulfillingAttendanceRequirement": 281,
+            "Attained with Distinction (II)": 19,
+            "Attained with Distinction (I) or above": 73,
+            "Attained or above": 262,
+            "Unattained": 19
+        }
+    },
+    {
+        "subject": "Engineering and Production",
+        "subcategory": "Computer Forensic Technology",
+        "male": {
+            "noEntered": 32,
+            "noFulfillingAttendanceRequirement": 27,
+            "Attained with Distinction (II)": 5,
+            "Attained with Distinction (I) or above": 12,
+            "Attained or above": 27,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 2,
+            "noFulfillingAttendanceRequirement": 2,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 0,
+            "Attained or above": 2,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 34,
+            "noFulfillingAttendanceRequirement": 29,
+            "Attained with Distinction (II)": 5,
+            "Attained with Distinction (I) or above": 12,
+            "Attained or above": 29,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Engineering and Production",
+        "subcategory": "Electrical and Energy Engineering",
+        "male": {
+            "noEntered": 68,
+            "noFulfillingAttendanceRequirement": 59,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 16,
+            "Attained or above": 56,
+            "Unattained": 3
+        },
+        "female": {
+            "noEntered": 3,
+            "noFulfillingAttendanceRequirement": 3,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 3,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 71,
+            "noFulfillingAttendanceRequirement": 62,
+            "Attained with Distinction (II)": 4,
+            "Attained with Distinction (I) or above": 17,
+            "Attained or above": 59,
+            "Unattained": 3
+        }
+    },
+    {
+        "subject": "Engineering and Production",
+        "subcategory": "Internet of Everything Application",
+        "male": {
+            "noEntered": 23,
+            "noFulfillingAttendanceRequirement": 18,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 6,
+            "Attained or above": 18,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 2,
+            "noFulfillingAttendanceRequirement": 2,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 2,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 25,
+            "noFulfillingAttendanceRequirement": 20,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 7,
+            "Attained or above": 20,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Engineering and Production",
+        "subcategory": "Railway Studies",
+        "male": {
+            "noEntered": 49,
+            "noFulfillingAttendanceRequirement": 38,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 29,
+            "Unattained": 9
+        },
+        "female": {
+            "noEntered": 1,
+            "noFulfillingAttendanceRequirement": 1,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 0,
+            "Attained or above": 1,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 50,
+            "noFulfillingAttendanceRequirement": 39,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 30,
+            "Unattained": 9
+        }
+    },
+    {
+        "subject": "Media and Communication",
+        "subcategory": "Creative Advertising",
+        "male": {
+            "noEntered": 9,
+            "noFulfillingAttendanceRequirement": 6,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 2,
+            "Attained or above": 6,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 10,
+            "noFulfillingAttendanceRequirement": 9,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 5,
+            "Attained or above": 6,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 19,
+            "noFulfillingAttendanceRequirement": 15,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 7,
+            "Attained or above": 12,
+            "Unattained": 3
+        }
+    },
+    {
+        "subject": "Media and Communication",
+        "subcategory": "Film and Video",
+        "male": {
+            "noEntered": 130,
+            "noFulfillingAttendanceRequirement": 118,
+            "Attained with Distinction (II)": 7,
+            "Attained with Distinction (I) or above": 22,
+            "Attained or above": 87,
+            "Unattained": 31
+        },
+        "female": {
+            "noEntered": 61,
+            "noFulfillingAttendanceRequirement": 58,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 8,
+            "Attained or above": 51,
+            "Unattained": 7
+        },
+        "total": {
+            "noEntered": 191,
+            "noFulfillingAttendanceRequirement": 176,
+            "Attained with Distinction (II)": 9,
+            "Attained with Distinction (I) or above": 30,
+            "Attained or above": 138,
+            "Unattained": 38
+        }
+    },
+    {
+        "subject": "Media and Communication",
+        "subcategory": "Magazine Editing and Production",
+        "male": {
+            "noEntered": 5,
+            "noFulfillingAttendanceRequirement": 3,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 0,
+            "Attained or above": 3,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 10,
+            "noFulfillingAttendanceRequirement": 9,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 6,
+            "Attained or above": 9,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 15,
+            "noFulfillingAttendanceRequirement": 12,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 6,
+            "Attained or above": 12,
+            "Unattained": 0
+        }
+    },
+    {
+        "subject": "Media and Communication",
+        "subcategory": "Public Relations and Communication",
+        "male": {
+            "noEntered": 13,
+            "noFulfillingAttendanceRequirement": 9,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 7,
+            "Unattained": 2
+        },
+        "female": {
+            "noEntered": 12,
+            "noFulfillingAttendanceRequirement": 11,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 7,
+            "Attained or above": 10,
+            "Unattained": 1
+        },
+        "total": {
+            "noEntered": 25,
+            "noFulfillingAttendanceRequirement": 20,
+            "Attained with Distinction (II)": 2,
+            "Attained with Distinction (I) or above": 8,
+            "Attained or above": 17,
+            "Unattained": 3
+        }
+    },
+    {
+        "subject": "Services",
+        "subcategory": "Child Care and Education",
+        "male": {
+            "noEntered": 6,
+            "noFulfillingAttendanceRequirement": 6,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 1,
+            "Attained or above": 6,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 175,
+            "noFulfillingAttendanceRequirement": 173,
+            "Attained with Distinction (II)": 12,
+            "Attained with Distinction (I) or above": 52,
+            "Attained or above": 165,
+            "Unattained": 8
+        },
+        "total": {
+            "noEntered": 181,
+            "noFulfillingAttendanceRequirement": 179,
+            "Attained with Distinction (II)": 12,
+            "Attained with Distinction (I) or above": 53,
+            "Attained or above": 171,
+            "Unattained": 8
+        }
+    },
+    {
+        "subject": "Services",
+        "subcategory": "Fundamental Cosmetology",
+        "male": {
+            "noEntered": 2,
+            "noFulfillingAttendanceRequirement": 2,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 0,
+            "Attained or above": 2,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 83,
+            "noFulfillingAttendanceRequirement": 75,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 14,
+            "Attained or above": 73,
+            "Unattained": 2
+        },
+        "total": {
+            "noEntered": 85,
+            "noFulfillingAttendanceRequirement": 77,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 14,
+            "Attained or above": 75,
+            "Unattained": 2
+        }
+    },
+    {
+        "subject": "Services",
+        "subcategory": "Hospitality Services in Practice",
+        "male": {
+            "noEntered": 62,
+            "noFulfillingAttendanceRequirement": 56,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 8,
+            "Attained or above": 56,
+            "Unattained": 0
+        },
+        "female": {
+            "noEntered": 76,
+            "noFulfillingAttendanceRequirement": 75,
+            "Attained with Distinction (II)": 11,
+            "Attained with Distinction (I) or above": 24,
+            "Attained or above": 67,
+            "Unattained": 8
+        },
+        "total": {
+            "noEntered": 138,
+            "noFulfillingAttendanceRequirement": 131,
+            "Attained with Distinction (II)": 11,
+            "Attained with Distinction (I) or above": 32,
+            "Attained or above": 123,
+            "Unattained": 8
+        }
+    },
+    {
+        "subject": "Services",
+        "subcategory": "Hotel Operations",
+        "male": {
+            "noEntered": 70,
+            "noFulfillingAttendanceRequirement": 65,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 2,
+            "Attained or above": 56,
+            "Unattained": 9
+        },
+        "female": {
+            "noEntered": 65,
+            "noFulfillingAttendanceRequirement": 61,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 13,
+            "Attained or above": 58,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 135,
+            "noFulfillingAttendanceRequirement": 126,
+            "Attained with Distinction (II)": 3,
+            "Attained with Distinction (I) or above": 15,
+            "Attained or above": 114,
+            "Unattained": 12
+        }
+    },
+    {
+        "subject": "Services",
+        "subcategory": "P\u00e2tisserie and Caf\u00e9 Operations",
+        "male": {
+            "noEntered": 84,
+            "noFulfillingAttendanceRequirement": 72,
+            "Attained with Distinction (II)": 0,
+            "Attained with Distinction (I) or above": 8,
+            "Attained or above": 70,
+            "Unattained": 2
+        },
+        "female": {
+            "noEntered": 122,
+            "noFulfillingAttendanceRequirement": 108,
+            "Attained with Distinction (II)": 11,
+            "Attained with Distinction (I) or above": 35,
+            "Attained or above": 108,
+            "Unattained": 0
+        },
+        "total": {
+            "noEntered": 206,
+            "noFulfillingAttendanceRequirement": 180,
+            "Attained with Distinction (II)": 11,
+            "Attained with Distinction (I) or above": 43,
+            "Attained or above": 178,
+            "Unattained": 2
+        }
+    },
+    {
+        "subject": "Services",
+        "subcategory": "Western Cuisine",
+        "male": {
+            "noEntered": 310,
+            "noFulfillingAttendanceRequirement": 270,
+            "Attained with Distinction (II)": 1,
+            "Attained with Distinction (I) or above": 15,
+            "Attained or above": 245,
+            "Unattained": 25
+        },
+        "female": {
+            "noEntered": 315,
+            "noFulfillingAttendanceRequirement": 290,
+            "Attained with Distinction (II)": 15,
+            "Attained with Distinction (I) or above": 63,
+            "Attained or above": 278,
+            "Unattained": 12
+        },
+        "total": {
+            "noEntered": 625,
+            "noFulfillingAttendanceRequirement": 560,
+            "Attained with Distinction (II)": 16,
+            "Attained with Distinction (I) or above": 78,
+            "Attained or above": 523,
+            "Unattained": 37
+        }
+    },
+    {
+        "subject": "All Category B subjects (except Applied Learning Chinese)",
+        "subcategory": null,
+        "male": {
+            "noEntered": 1792,
+            "noFulfillingAttendanceRequirement": 1545,
+            "Attained with Distinction (II)": 86,
+            "Attained with Distinction (I) or above": 307,
+            "Attained or above": 1404,
+            "Unattained": 141
+        },
+        "female": {
+            "noEntered": 1781,
+            "noFulfillingAttendanceRequirement": 1661,
+            "Attained with Distinction (II)": 175,
+            "Attained with Distinction (I) or above": 540,
+            "Attained or above": 1596,
+            "Unattained": 65
+        },
+        "total": {
+            "noEntered": 3573,
+            "noFulfillingAttendanceRequirement": 3206,
+            "Attained with Distinction (II)": 261,
+            "Attained with Distinction (I) or above": 847,
+            "Attained or above": 3000,
+            "Unattained": 206
+        }
+    }
+]

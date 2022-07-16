@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": "Chinese for the Service Industry",
+        "male": {
+            "noEntered": 66,
+            "noFulfillingAttendanceRequirement": 64,
+            "Attained with Distinction": 13,
+            "Attained or above": 56,
+            "Unattained": 8
+        },
+        "female": {
+            "noEntered": 49,
+            "noFulfillingAttendanceRequirement": 46,
+            "Attained with Distinction": 17,
+            "Attained or above": 44,
+            "Unattained": 2
+        },
+        "total": {
+            "noEntered": 115,
+            "noFulfillingAttendanceRequirement": 110,
+            "Attained with Distinction": 30,
+            "Attained or above": 100,
+            "Unattained": 10
+        }
+    },
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": "Practical Chinese in Hospitality",
+        "male": {
+            "noEntered": 11,
+            "noFulfillingAttendanceRequirement": 9,
+            "Attained with Distinction": 2,
+            "Attained or above": 8,
+            "Unattained": 1
+        },
+        "female": {
+            "noEntered": 16,
+            "noFulfillingAttendanceRequirement": 15,
+            "Attained with Distinction": 3,
+            "Attained or above": 12,
+            "Unattained": 3
+        },
+        "total": {
+            "noEntered": 27,
+            "noFulfillingAttendanceRequirement": 24,
+            "Attained with Distinction": 5,
+            "Attained or above": 20,
+            "Unattained": 4
+        }
+    },
+    {
+        "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
+        "subcategory": null,
+        "male": {
+            "noEntered": 77,
+            "noFulfillingAttendanceRequirement": 73,
+            "Attained with Distinction": 15,
+            "Attained or above": 64,
+            "Unattained": 9
+        },
+        "female": {
+            "noEntered": 65,
+            "noFulfillingAttendanceRequirement": 61,
+            "Attained with Distinction": 20,
+            "Attained or above": 56,
+            "Unattained": 5
+        },
+        "total": {
+            "noEntered": 142,
+            "noFulfillingAttendanceRequirement": 134,
+            "Attained with Distinction": 35,
+            "Attained or above": 120,
+            "Unattained": 14
+        }
+    }
+]

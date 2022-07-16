@@ -1,0 +1,43 @@
+﻿No.,Subject,Gender,Type,No. Entered,No. Sat,Performance - a,Performance - b+,Performance - c+,Performance - d+,Performance - e+,Performance - U
+1,French Language,Male,Number,18,16,7,12,12,15,16,0
+2,French Language,Male,Percentage,,,43.8%,75.0%,75.0%,93.8%,100.0%,0.0%
+3,French Language,Female,Number,21,21,7,9,14,16,18,3
+4,French Language,Female,Percentage,,,33.3%,42.9%,66.7%,76.2%,85.7%,14.3%
+5,French Language,Total,Number,39,37,14,21,26,31,34,3
+6,French Language,Total,Percentage,,,37.8%,56.8%,70.3%,83.8%,91.9%,8.1%
+7,German Language,Male,Number,1,1,1,1,1,1,1,0
+8,German Language,Male,Percentage,,,100.0%,100.0%,100.0%,100.0%,100.0%,0.0%
+9,German Language,Female,Number,0,0,-,-,-,-,-,-
+10,German Language,Female,Percentage,,,-,-,-,-,-,-
+11,German Language,Total,Number,1,1,1,1,1,1,1,0
+12,German Language,Total,Percentage,,,100.0%,100.0%,100.0%,100.0%,100.0%,0.0%
+13,Hindi Language,Male,Number,4,4,0,0,0,0,0,4
+14,Hindi Language,Male,Percentage,,,0.0%,0.0%,0.0%,0.0%,0.0%,100.0%
+15,Hindi Language,Female,Number,6,6,0,1,2,2,2,4
+16,Hindi Language,Female,Percentage,,,0.0%,16.7%,33.3%,33.3%,33.3%,66.7%
+17,Hindi Language,Total,Number,10,10,0,1,2,2,2,8
+18,Hindi Language,Total,Percentage,,,0.0%,10.0%,20.0%,20.0%,20.0%,80.0%
+19,Japanese Language,Male,Number,112,104,58,77,94,98,102,2
+20,Japanese Language,Male,Percentage,,,55.8%,74.0%,90.4%,94.2%,98.1%,1.9%
+21,Japanese Language,Female,Number,251,241,150,183,206,214,222,19
+22,Japanese Language,Female,Percentage,,,62.2%,75.9%,85.5%,88.8%,92.1%,7.9%
+23,Japanese Language,Total,Number,363,345,208,260,300,312,324,21
+24,Japanese Language,Total,Percentage,,,60.3%,75.4%,87.0%,90.4%,93.9%,6.1%
+25,Spanish Language,Male,Number,13,13,6,7,9,11,12,1
+26,Spanish Language,Male,Percentage,,,46.2%,53.8%,69.2%,84.6%,92.3%,7.7%
+27,Spanish Language,Female,Number,8,6,3,5,6,6,6,0
+28,Spanish Language,Female,Percentage,,,50.0%,83.3%,100.0%,100.0%,100.0%,0.0%
+29,Spanish Language,Total,Number,21,19,9,12,15,17,18,1
+30,Spanish Language,Total,Percentage,,,47.4%,63.2%,78.9%,89.5%,94.7%,5.3%
+31,Urdu Language,Male,Number,19,18,12,13,15,16,17,1
+32,Urdu Language,Male,Percentage,,,66.7%,72.2%,83.3%,88.9%,94.4%,5.6%
+33,Urdu Language,Female,Number,12,12,10,11,11,12,12,0
+34,Urdu Language,Female,Percentage,,,83.3%,91.7%,91.7%,100.0%,100.0%,0.0%
+35,Urdu Language,Total,Number,31,30,22,24,26,28,29,1
+36,Urdu Language,Total,Percentage,,,73.3%,80.0%,86.7%,93.3%,96.7%,3.3%
+37,All Category C subjects,Male,Number,167,156,84,110,131,141,148,8
+38,All Category C subjects,Male,Percentage,,,53.8%,70.5%,84.0%,90.4%,94.9%,5.1%
+39,All Category C subjects,Female,Number,298,286,170,209,239,250,260,26
+40,All Category C subjects,Female,Percentage,,,59.4%,73.1%,83.6%,87.4%,90.9%,9.1%
+41,All Category C subjects,Total,Number,465,442,254,319,370,391,408,34
+42,All Category C subjects,Total,Percentage,,,57.5%,72.2%,83.7%,88.5%,92.3%,7.7%

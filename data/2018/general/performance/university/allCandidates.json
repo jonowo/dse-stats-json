@@ -1,0 +1,92 @@
+[
+    {
+        "description": "No. of candidates",
+        "male": 29337,
+        "female": 28312,
+        "total": 57649
+    },
+    {
+        "description": "Core subjects at 3322 or better",
+        "male": 8719,
+        "female": 12884,
+        "total": 21603
+    },
+    {
+        "description": "Core subjects at 3322 or better, with one elective at level 2+",
+        "male": 8693,
+        "female": 12832,
+        "total": 21525
+    },
+    {
+        "description": "Core subjects at 3322 or better, with two electives at level 2+",
+        "male": 8315,
+        "female": 12321,
+        "total": 20636
+    },
+    {
+        "description": "Core subjects at 3322 or better, with one elective at level 3+",
+        "male": 8435,
+        "female": 12293,
+        "total": 20728
+    },
+    {
+        "description": "Core subjects at 3322 or better, with two electives at level 3+",
+        "male": 7505,
+        "female": 10589,
+        "total": 18094
+    },
+    {
+        "description": "Core subjects at 3332 or better, with one elective at level 3+",
+        "male": 8060,
+        "female": 11159,
+        "total": 19219
+    },
+    {
+        "description": "Core subjects at 3332 or better, with two electives at level 3+",
+        "male": 7293,
+        "female": 9945,
+        "total": 17238
+    },
+    {
+        "description": "Core subjects at 3322 or better, with one elective at level 4+",
+        "male": 7149,
+        "female": 9555,
+        "total": 16704
+    },
+    {
+        "description": "Core subjects at 3322 or better, with two electives at level 4+",
+        "male": 5344,
+        "female": 6509,
+        "total": 11853
+    },
+    {
+        "description": "Core subjects at 3322 or better, with one elective at level 5+",
+        "male": 3962,
+        "female": 4300,
+        "total": 8262
+    },
+    {
+        "description": "Core subjects at 3322 or better, with two electives at level 5+",
+        "male": 2251,
+        "female": 2107,
+        "total": 4358
+    },
+    {
+        "description": "Core subjects at 3322 or better, with Mathematics Extended Part at level 2+ and one elective at level 2+",
+        "male": 3095,
+        "female": 1727,
+        "total": 4822
+    },
+    {
+        "description": "Core subjects at 3322 or better, with Mathematics Extended Part at level 3+ and one elective at level 2+",
+        "male": 2869,
+        "female": 1521,
+        "total": 4390
+    },
+    {
+        "description": "Core subjects at 3322 or better, with Mathematics Extended Part at level 3+ and one elective at level 3+",
+        "male": 2860,
+        "female": 1517,
+        "total": 4377
+    }
+]

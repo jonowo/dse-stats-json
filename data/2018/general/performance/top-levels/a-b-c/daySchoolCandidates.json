@@ -1,0 +1,62 @@
+[
+    {
+        "description": "8",
+        "male": 1,
+        "female": 0,
+        "total": 1
+    },
+    {
+        "description": "7",
+        "male": 6,
+        "female": 4,
+        "total": 10
+    },
+    {
+        "description": "6",
+        "male": 15,
+        "female": 13,
+        "total": 28
+    },
+    {
+        "description": "5",
+        "male": 32,
+        "female": 16,
+        "total": 48
+    },
+    {
+        "description": "4",
+        "male": 34,
+        "female": 39,
+        "total": 73
+    },
+    {
+        "description": "3",
+        "male": 114,
+        "female": 87,
+        "total": 201
+    },
+    {
+        "description": "2",
+        "male": 187,
+        "female": 216,
+        "total": 403
+    },
+    {
+        "description": "1",
+        "male": 803,
+        "female": 1145,
+        "total": 1948
+    },
+    {
+        "description": "0",
+        "male": 24064,
+        "female": 23671,
+        "total": 47735
+    },
+    {
+        "description": "Total",
+        "male": 25256,
+        "female": 25191,
+        "total": 50447
+    }
+]

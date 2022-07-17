@@ -36,7 +36,7 @@ HKEAA is a bad programmer. Don't be like HKEAA.
 | daySchoolCandidates.json | Data for day school candidates |
 | allCandidates.json | Data for all candidates |
 
-Percentage data (except Chinese Version %) is omitted since
+Percentage data (except `chineseVersion`) is omitted since
 it can be calculated as needed.
 
 ### Grade Point Conversion Table

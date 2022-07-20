@@ -9,7 +9,7 @@ class SanitizeGeneralDaySchoolCandidates(SanitizeBase):
     path_mapping = {
         "3a.csv": Path("general/performance/level-2/daySchoolCandidates.json"),
         "3b.csv": Path("general/performance/best-5/daySchoolCandidates.json"),
-        "3c_2.csv": Path("general/grade-point-distribution/2C-22222/best-5-chin-eng/daySchoolCandidates.json"),
+        "3c_2.csv": Path("general/grade-point-distribution/CE3X-22222/CE3X/daySchoolCandidates.json"),
         "3d.csv": Path("general/performance/university/daySchoolCandidates.json")
     }
     path_mapping_special = {
@@ -56,7 +56,7 @@ class SanitizeGeneralAllCandidates(SanitizeGeneralDaySchoolCandidates):
     path_mapping = {
         "3a.csv": Path("general/performance/level-2/allCandidates.json"),
         "3b.csv": Path("general/performance/best-5/allCandidates.json"),
-        "3c_2.csv": Path("general/grade-point-distribution/2C-22222/best-5-chin-eng/allCandidates.json"),
+        "3c_2.csv": Path("general/grade-point-distribution/CE3X-22222/CE3X/allCandidates.json"),
         "3d.csv": Path("general/performance/university/allCandidates.json")
     }
     path_mapping_special = {

@@ -17,7 +17,7 @@ HKEAA is a bad programmer. Don't be like HKEAA.
 | general/performance/SEN | Performance of candidates with special needs | 2017- | 3g | allCandidates.json only |
 | general/performance/top-levels/a | Attainment of top levels / grades in Category A subjects | 2017- | 3l-m | |
 | general/performance/top-levels/a-b-c | Attainment of top levels / grades in Category A/B/C subjects | 2017- | 3l-m | |
-| general/grade-point-distribution/2C-22222/best-5-chin-eng | Grade point distribution in the best five subjects (incl. Chinese Language & English Language) of candidates attaining 2+ in 5 subjects (incl. Chinese Language & English Language) | 2017- | 3c(ii) | * |
+| general/grade-point-distribution/CE3X-22222/CE3X | Grade point distribution in the best five subjects (incl. Chinese Language & English Language) of candidates attaining 2+ in 5 subjects (incl. Chinese Language & English Language) | 2017- | 3c(ii) | * |
 | general/grade-point-distribution/4C-3322/best-5 | See # below | 2017- | 3e(i) | * |
 | general/grade-point-distribution/4C1X-33222/best-5 | See # below | 2019- | 3e(ii) | * |
 | general/grade-point-distribution/4C1X-33222/4C1X | See # below | 2019- | 3e(ii) | * |

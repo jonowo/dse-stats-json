@@ -76,7 +76,7 @@
     },
     {
         "subject": "Applied Learning Chinese (for non-Chinese speaking students)",
-        "subcategory": null,
+        "subcategory": "All",
         "male": {
             "noEntered": 91,
             "noFulfillingAttendanceRequirement": 90,

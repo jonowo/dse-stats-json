@@ -29,7 +29,11 @@ class SanitizeCategoryBSubjects(SanitizeBase):
 
         subjects = defaultdict(dict)
         for row in data:
-            p = (row["subject"], row["subcategory"] or None)
+            if row["subject"] == "Applied Learning Chinese (for non-Chinese speaking students)":
+                subcategory = row["subcategory"] or "All"
+            else:
+                subcategory = row["subcategory"] or None
+            p = (row["subject"], subcategory)
 
             if self.csv_filename.endswith("1.csv"):
                 gender_data = {

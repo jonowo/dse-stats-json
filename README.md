@@ -76,6 +76,10 @@ The grade point distribution for each subject combination only includes candidat
 | 4C1X-33222 | 3322 & attaining level 2+ in one elective subject |
 | 4C2X-332233 | 3322 & attaining level 3+ in two elective subjects |
 
+> When will the data for the most recent exam be released?
+
+In the following January.
+
 > Why is the data so disorganized?
 
 info@hkeaa.edu.hk
